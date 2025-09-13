@@ -1,32 +1,7 @@
 {
   "Id": "77b0d1fe-ceb7-48e7-8050-e1eb9bc15147",
-  "Title": "this is updated here for all of you",
+  "Title": "this is updated here for all of you sdsd",
   "DisplayOrder": 0,
   "IsVisible": false,
-  "Items": [
-    {
-      "Id": "a3900699-1260-4b55-81ef-59be52337a2c",
-      "Title": "This is study Item 1",
-      "Description": ",L,SVLS,VLSKLVSFVS dfsfsf\r\n",
-      "Url": null,
-      "VideoUrl": null,
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    },
-    {
-      "Id": "e8419db1-d0f9-47ad-8b7f-3899a1616af2",
-      "Title": "wdsd",
-      "Description": null,
-      "Url": null,
-      "VideoUrl": null,
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    }
-  ]
+  "Items": []
 }
