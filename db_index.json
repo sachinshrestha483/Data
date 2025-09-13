@@ -1,14 +1,20 @@
 [
   {
     "Id": "94cac58f-1d5b-4e02-a0a1-e5dd309456ca",
+    "DisplayOrder": 0,
+    "IsVisible": false,
     "Subject": "Test Subject 1 it is"
   },
   {
     "Id": "77b0d1fe-ceb7-48e7-8050-e1eb9bc15147",
+    "DisplayOrder": 0,
+    "IsVisible": false,
     "Subject": "jkjkj"
   },
   {
     "Id": "2e809ae7-7519-44fc-ad78-a8d9b721c74a",
+    "DisplayOrder": 0,
+    "IsVisible": false,
     "Subject": "kk"
   }
 ]

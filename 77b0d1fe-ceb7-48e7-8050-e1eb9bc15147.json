@@ -6,23 +6,25 @@
     {
       "Id": "a3900699-1260-4b55-81ef-59be52337a2c",
       "Title": "This is study Item 1",
-      "Description": ",L,SVLS,VLSKLVSFVS",
+      "Description": ",L,SVLS,VLSKLVSFVS dfsfsf\r\n",
       "Url": null,
       "VideoUrl": null,
       "Start": null,
       "End": null,
       "DisplayOrder": 0,
+      "IsVisible": true,
       "Items": []
     },
     {
-      "Id": "996f4360-b58a-46d6-b777-f4b02025727e",
-      "Title": "Study Item 2 ",
+      "Id": "e8419db1-d0f9-47ad-8b7f-3899a1616af2",
+      "Title": "",
       "Description": null,
       "Url": null,
       "VideoUrl": null,
       "Start": null,
       "End": null,
       "DisplayOrder": 0,
+      "IsVisible": false,
       "Items": []
     }
   ]
