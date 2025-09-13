@@ -1,0 +1,29 @@
+{
+  "Id": "77b0d1fe-ceb7-48e7-8050-e1eb9bc15147",
+  "Title": "jkjkj",
+  "DisplayOrder": 0,
+  "Items": [
+    {
+      "Id": "a3900699-1260-4b55-81ef-59be52337a2c",
+      "Title": "This is study Item 1",
+      "Description": ",L,SVLS,VLSKLVSFVS",
+      "Url": null,
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "Items": []
+    },
+    {
+      "Id": "996f4360-b58a-46d6-b777-f4b02025727e",
+      "Title": "Study Item 2 ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "Items": []
+    }
+  ]
+}
