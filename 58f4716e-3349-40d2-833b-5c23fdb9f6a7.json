@@ -27,6 +27,18 @@
       "DisplayOrder": 0,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "5d8024f2-cb18-429e-b438-71c57fdd19e4",
+      "Title": "Chapter 1 Notes",
+      "Description": null,
+      "Url": "https://ncert.nic.in/textbook/pdf/aemr101.pdf",
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
