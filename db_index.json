@@ -28,5 +28,11 @@
     "DisplayOrder": 0,
     "IsVisible": true,
     "Subject": "Physics"
+  },
+  {
+    "Id": "38620045-e315-48ff-9aea-d89e2b7e7610",
+    "DisplayOrder": 120,
+    "IsVisible": true,
+    "Subject": "Test From new machine"
   }
 ]
