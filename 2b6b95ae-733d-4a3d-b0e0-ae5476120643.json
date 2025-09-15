@@ -15,6 +15,42 @@
       "DisplayOrder": 0,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "09d63fd4-21e8-43a7-901e-6ca3de872839",
+      "Title": "Part 2",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://www.youtube.com/watch?v=PyZLyELRgRM",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "f8d00595-fc04-4df7-b859-779d25981d51",
+      "Title": "Chapter 8 Notes",
+      "Description": null,
+      "Url": "https://ncert.nic.in/textbook/pdf/jesc110.pdf",
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "21df17cc-0bee-46c0-be96-56a4ce4cb363",
+      "Title": "Light notes",
+      "Description": null,
+      "Url": "https://drive.usercontent.google.com/u/0/uc?id=1ZEbORTH47ho_Xnl-AqMEXfi1WfuCcrDL\u0026export=download",
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
