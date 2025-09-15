@@ -1,38 +1,3 @@
 [
-  {
-    "Id": "94cac58f-1d5b-4e02-a0a1-e5dd309456ca",
-    "DisplayOrder": 15,
-    "IsVisible": true,
-    "Subject": "Test Subject 1 it is"
-  },
-  {
-    "Id": "77b0d1fe-ceb7-48e7-8050-e1eb9bc15147",
-    "DisplayOrder": 0,
-    "IsVisible": true,
-    "Subject": "jkjkj updated heredsds"
-  },
-  {
-    "Id": "2e809ae7-7519-44fc-ad78-a8d9b721c74a",
-    "DisplayOrder": 0,
-    "IsVisible": true,
-    "Subject": "kk"
-  },
-  {
-    "Id": "32604436-f491-43d3-97c7-60de834f4307",
-    "DisplayOrder": 0,
-    "IsVisible": false,
-    "Subject": "fdf"
-  },
-  {
-    "Id": "58f4716e-3349-40d2-833b-5c23fdb9f6a7",
-    "DisplayOrder": 0,
-    "IsVisible": true,
-    "Subject": "Physics"
-  },
-  {
-    "Id": "38620045-e315-48ff-9aea-d89e2b7e7610",
-    "DisplayOrder": 120,
-    "IsVisible": true,
-    "Subject": "Test From new machine"
-  }
+  
 ]
