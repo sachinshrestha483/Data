@@ -1,0 +1,32 @@
+{
+  "Id": "b46bb242-0bae-49d9-b0f4-d4f485a304a4",
+  "Title": "Class 11 Physics",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "dd76f6b0-e991-48cf-a7e7-7716c0a2deed",
+      "Title": "Physics Notes",
+      "Description": null,
+      "Url": "https://drive.usercontent.google.com/u/0/uc?id=1t6-qFlb34efZQKvJjFiC5GtQ3QpOtD1b\u0026export=download",
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "14a42372-0469-461b-b731-bcccc3d2eea3",
+      "Title": "Lecture",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://www.youtube.com/watch?v=YyUnnEeCJmQ\u0026ab_channel=HCVERMA",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
