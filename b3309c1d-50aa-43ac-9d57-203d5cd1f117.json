@@ -1,0 +1,20 @@
+{
+  "Id": "b3309c1d-50aa-43ac-9d57-203d5cd1f117",
+  "Title": "Test Content",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "a18c2535-be62-4ff2-a87c-cb655e907133",
+      "Title": "Test content 11",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
