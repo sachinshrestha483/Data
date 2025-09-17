@@ -1,0 +1,20 @@
+{
+  "Id": "d16c9d4e-2a4d-46e4-9b78-7d23101ed3cc",
+  "Title": "Test",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "0214e001-43e3-449a-a67d-04d7a28bd970",
+      "Title": "item 1",
+      "Description": "kjj",
+      "Url": null,
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}

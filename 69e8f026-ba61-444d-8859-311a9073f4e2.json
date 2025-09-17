@@ -1,0 +1,20 @@
+{
+  "Id": "69e8f026-ba61-444d-8859-311a9073f4e2",
+  "Title": "My Blogs",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "0b832b43-829f-46cf-8526-a4cadb15102c",
+      "Title": "",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": false,
+      "Items": []
+    }
+  ]
+}
