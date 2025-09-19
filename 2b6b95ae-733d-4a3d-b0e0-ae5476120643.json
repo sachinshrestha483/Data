@@ -63,6 +63,18 @@
       "DisplayOrder": 0,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "89dbdcf7-b846-4332-941f-9a1143ab82b0",
+      "Title": "medium url is here",
+      "Description": "this is the medium url here fo all the people in india",
+      "Url": "https://www.resonance.ac.in/sc/post/attachment/(2232)-gyan-sutra-p.pdf",
+      "VideoUrl": null,
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
