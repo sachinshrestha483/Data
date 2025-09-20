@@ -3,18 +3,5 @@
   "Title": "Test Content",
   "DisplayOrder": 0,
   "IsVisible": true,
-  "Items": [
-    {
-      "Id": "a18c2535-be62-4ff2-a87c-cb655e907133",
-      "Title": "Test content 11",
-      "Description": null,
-      "Url": null,
-      "VideoUrl": null,
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    }
-  ]
+  "Items": []
 }
