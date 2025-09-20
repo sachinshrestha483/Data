@@ -5,66 +5,6 @@
   "IsVisible": true,
   "Items": [
     {
-      "Id": "2e13bafb-53b6-453a-951e-c27bf12fd332",
-      "Title": "10th science objective classes part 1 ",
-      "Description": null,
-      "Url": null,
-      "VideoUrl": "https://www.youtube.com/watch?v=fECjDZI2tQ0",
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    },
-    {
-      "Id": "09d63fd4-21e8-43a7-901e-6ca3de872839",
-      "Title": "Part 2",
-      "Description": null,
-      "Url": null,
-      "VideoUrl": "https://www.youtube.com/watch?v=PyZLyELRgRM",
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    },
-    {
-      "Id": "f8d00595-fc04-4df7-b859-779d25981d51",
-      "Title": "Chapter 8 Notes",
-      "Description": null,
-      "Url": "https://ncert.nic.in/textbook/pdf/jesc110.pdf",
-      "VideoUrl": null,
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    },
-    {
-      "Id": "21df17cc-0bee-46c0-be96-56a4ce4cb363",
-      "Title": "Light notes",
-      "Description": null,
-      "Url": "https://drive.usercontent.google.com/u/0/uc?id=1ZEbORTH47ho_Xnl-AqMEXfi1WfuCcrDL\u0026export=download",
-      "VideoUrl": null,
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    },
-    {
-      "Id": "c8fd384a-3f17-440b-a99e-ac9c9babd8eb",
-      "Title": "Theorms",
-      "Description": null,
-      "Url": "https://drive.usercontent.google.com/u/0/uc?id=1t6-qFlb34efZQKvJjFiC5GtQ3QpOtD1b\u0026export=download",
-      "VideoUrl": null,
-      "Start": null,
-      "End": null,
-      "DisplayOrder": 0,
-      "IsVisible": true,
-      "Items": []
-    },
-    {
       "Id": "89dbdcf7-b846-4332-941f-9a1143ab82b0",
       "Title": "medium url is here",
       "Description": "this is the medium url here fo all the people in india",
