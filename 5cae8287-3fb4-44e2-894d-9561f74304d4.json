@@ -1,0 +1,20 @@
+{
+  "Id": "5cae8287-3fb4-44e2-894d-9561f74304d4",
+  "Title": "Exam Preparation Tips",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "49e15683-cc72-43ac-8fe7-e83759a87703",
+      "Title": "exam \u092E\u0947\u0902 \u092C\u094B\u0928\u0938 \u0905\u0902\u0915 \u0915\u0948\u0938\u0947 \u092E\u093F\u0932\u0924\u0947 \u0939\u0948\u0902 ? ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/M57meJHwje0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
