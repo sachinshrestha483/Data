@@ -75,6 +75,18 @@
       "DisplayOrder": 0,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "c973083d-4ce9-4306-a27b-ad0c1bd0491c",
+      "Title": "10th science||\u0905\u0927\u094D\u092F\u093E\u092F 1 \u0930\u093E\u0938\u093E\u092F\u0928\u093F\u0915 \u0905\u092D\u093F\u0915\u094D\u0930\u093F\u092F\u093E\u090F\u0902||chapter 1||part-6||\u0935\u093F\u092F\u094B\u091C\u0928 \u0905\u092D\u093F\u0915\u094D\u0930\u093F\u092F\u093E  \u0915\u094B \u0938\u0902\u092F\u094B\u091C\u0928 \u0905\u092D\u093F\u0915\u094D\u0930\u093F\u092F\u093E \u0915\u0947 \u0935\u093F\u092A\u0930\u0940\u0924 \u0915\u094D\u092F\u094B\u0902 \u0915\u0939\u0924\u0947 \u0939\u0948 ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/DhNaNUxcjJc",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
