@@ -1,0 +1,20 @@
+{
+  "Id": "b8a622f6-52e5-4d6d-b26e-69287dffd38e",
+  "Title": "9th science || chapter 4 ||  \u092A\u0930\u092E\u093E\u0923\u0941 \u0938\u0902\u0930\u091A\u0928\u093E || atomic structure",
+  "DisplayOrder": 4,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "d883517b-0271-4009-b601-c38ddcf26c6f",
+      "Title": "\u0925\u093E\u092E\u0938\u0928 \u0915\u093E \u092A\u0930\u092E\u093E\u0923\u0941 \u092E\u0949\u0921\u0932,\u092A\u094D\u0932\u092E-\u092A\u0941\u0921\u093F\u0902\u0917 Thomson atomic model ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/aEHGfdB6U54",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
