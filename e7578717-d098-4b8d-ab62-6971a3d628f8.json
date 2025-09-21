@@ -27,6 +27,18 @@
       "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "76dbc47a-3d67-43cd-a949-8e1a7fab6b31",
+      "Title": "\u092C\u093E\u092F\u094B \u0938\u0947\u0935\u0930\u094D\u091F \u0915\u093E \u0928\u093F\u092F\u092E Biot-Savart law",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/4G7Zc_0MFIg",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
