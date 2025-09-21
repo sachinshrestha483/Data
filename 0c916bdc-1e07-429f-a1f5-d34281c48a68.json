@@ -27,6 +27,42 @@
       "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "f88e4f61-0ac8-4897-8e22-ef8af014d584",
+      "Title": "\u0915\u0932\u093E \u0938\u092E\u094D\u092C\u0926\u094D\u0927 \u0938\u094D\u0924\u094D\u0930\u094B\u0924,coherent sources",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/l96reQ2zGO4",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "6b807467-03ed-4544-acff-0ebe341819da",
+      "Title": "\u0935\u094D\u092F\u0924\u093F\u0915\u0930\u0923 \u0915\u0947 \u092A\u094D\u0930\u0915\u093E\u0930,types of interference",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/FoWB03USUs4",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "a076398d-06c2-478d-b2c6-cf8555f5d2b5",
+      "Title": "\u0935\u094D\u092F\u0924\u093F\u0915\u0930\u0923,\u0935\u094D\u092F\u0924\u093F\u0915\u0930\u0923 \u0915\u0940 \u0936\u0930\u094D\u0924, what is interference, conditions of interference",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/TaW3wAU6LdI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
