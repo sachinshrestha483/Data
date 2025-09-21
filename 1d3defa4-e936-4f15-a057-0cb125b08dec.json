@@ -15,6 +15,54 @@
       "DisplayOrder": 1,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "93615d96-30e3-417a-b89c-71d947086214",
+      "Title": "\u0926\u0942\u0930 \u0926\u0943\u0937\u094D\u091F\u093F \u0926\u094B\u0937 \u0914\u0930 \u0928\u093F\u0915\u091F \u0926\u0943\u0937\u094D\u091F\u093F \u0926\u094B\u0937, Hypermetropia and myopia",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/ECVqfstr_Zk",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "872ccfd6-d3bf-43c9-8929-ef07e85f6042",
+      "Title": "\u091C\u0930\u093E\u0926\u0942\u0930\u0926\u0943\u0937\u094D\u091F\u093F \u0926\u094B\u0937,\u091C\u0930\u093E\u0926\u0943\u0937\u094D\u091F\u093F \u0926\u094B\u0937 \u0915\u093E\u0930\u0923,\u0928\u093F\u0935\u093E\u0930\u0923",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/sk84FF6CXSY",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "8b13e12e-0f49-4261-b4bf-b3b09f08299f",
+      "Title": "\u0915\u093E\u0902\u091A \u0915\u0947 \u092A\u094D\u0930\u093F\u091C\u094D\u092E \u0938\u0947 \u092A\u094D\u0930\u0915\u093E\u0936 \u0915\u093E \u0905\u092A\u0935\u0930\u094D\u0924\u0928 refraction through glass prism",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/2OLh_D5jTR0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "c8c613f6-8667-4822-96a7-3cdffad28dbe",
+      "Title": "\u092A\u094D\u0930\u093F\u091C\u094D\u092E \u0938\u0947 \u092A\u094D\u0930\u0915\u093E\u0936 \u0915\u093E \u0935\u0930\u094D\u0923 \u0935\u093F\u0915\u094D\u0937\u0947\u092A\u0923 \u091A\u093F\u0924\u094D\u0930 \u0915\u0948\u0938\u0947 \u092C\u0928\u093E\u090F\u0902 ,step by step diagram of dispersion of light",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/NysK2VnflI8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
