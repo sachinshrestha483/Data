@@ -1,0 +1,32 @@
+{
+  "Id": "850d16e5-8587-4f3b-a09f-6d84577acbb6",
+  "Title": "12th physics || unit 1|| chapter 2 || \u0938\u094D\u0925\u093F\u0930 \u0935\u0948\u0926\u094D\u092F\u0941\u0924 \u0935\u093F\u092D\u0935 \u0914\u0930 \u0927\u093E\u0930\u093F\u0924\u093E ||electrostatic potential",
+  "DisplayOrder": 62,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "f9403522-bbf5-4791-9a9e-43f760ff0564",
+      "Title": "Introduction || potential || \u0935\u093F\u092D\u0935 || \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u0935\u093F\u092D\u0935 \u092A\u0930\u093F\u092D\u093E\u0937\u093E,\u0935\u093F\u092D\u0935 \u0915\u093E \u092E\u093E\u0924\u094D\u0930\u0915,\u0935\u093F\u092D\u0935 \u0915\u093E \u0935\u093F\u092E\u0940\u092F \u0938\u0941\u0924\u094D\u0930 ||",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/EbLnsEfjLM0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "767cdb99-dc59-415d-9479-a259672f7032",
+      "Title": "\u0935\u093F\u092D\u0935,\u0935\u093F\u092D\u0935 \u0915\u093E \u0938\u0941\u0924\u094D\u0930,\u0935\u093F\u092D\u0935\u093E\u0902\u0924\u0930 || 12th physics_chapter2 || \u0938\u094D\u0925\u093F\u0930 \u0935\u0948\u0926\u094D\u092F\u0941\u0924 \u0935\u093F\u092D\u0935 \u0914\u0930 \u0927\u093E\u0930\u093F\u0924\u093E",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/aoF7tRHlwHM",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
