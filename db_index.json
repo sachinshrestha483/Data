@@ -337,20 +337,26 @@
   },
   {
     "Id": "a9934eb2-992c-4eb1-bb33-014a045ff3bf",
-    "DisplayOrder": 8,
+    "DisplayOrder": 28,
     "IsVisible": true,
     "Subject": "10th science || chapter 8 || \u0906\u0928\u0941\u0935\u093E\u0902\u0936\u093F\u0915\u0924\u093E  || \u0905\u0927\u094D\u092F\u093E\u092F 8 || Heredity"
   },
   {
     "Id": "1375b62c-592c-464a-9982-40e670b84ef7",
-    "DisplayOrder": 9,
+    "DisplayOrder": 29,
     "IsVisible": true,
     "Subject": "10th science || chapter 9 || \u092A\u094D\u0930\u0915\u093E\u0936-\u092A\u0930\u093E\u0935\u0930\u094D\u0924\u0928 \u0914\u0930 \u0905\u092A\u0935\u0930\u094D\u0924\u0928 || \u0905\u0927\u094D\u092F\u093E\u092F 9 || Light - Reflection and Refraction"
   },
   {
     "Id": "1d3defa4-e936-4f15-a057-0cb125b08dec",
-    "DisplayOrder": 10,
+    "DisplayOrder": 30,
     "IsVisible": true,
     "Subject": "10th science || chapter 10 || \u092E\u093E\u0928\u0935 \u0928\u0947\u0924\u094D\u0930 \u090F\u0935\u0902 \u0930\u0902\u0917 \u092C\u093F\u0930\u0902\u0917\u093E \u0938\u0902\u0938\u093E\u0930 || \u0905\u0927\u094D\u092F\u093E\u092F 10 || The Human Eye and colorful world"
+  },
+  {
+    "Id": "7cfdfee6-2f40-4d05-89ae-8b9abb074775",
+    "DisplayOrder": 31,
+    "IsVisible": true,
+    "Subject": "10th science || chapter 11 || \u0935\u093F\u0926\u094D\u092F\u0941\u0924 || \u0905\u0927\u094D\u092F\u093E\u092F 11 || Electricity"
   }
 ]
