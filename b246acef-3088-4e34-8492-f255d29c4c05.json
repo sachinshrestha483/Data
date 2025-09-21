@@ -1,0 +1,32 @@
+{
+  "Id": "b246acef-3088-4e34-8492-f255d29c4c05",
+  "Title": "11th physics || \u092F\u0942\u0928\u093F\u091F 10 || \u0905\u0927\u094D\u092F\u093E\u092F 13 || \u0926\u094B\u0932\u0928 || unit 10 || Chapter 13 || oscillations",
+  "DisplayOrder": 53,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "bfe5a83d-0691-4f1d-af68-405f878a4ab9",
+      "Title": "\u0938\u093F\u0902\u092A\u0932 \u092A\u0947\u0902\u0921\u0941\u0932\u092E \u0915\u093E \u0906\u0935\u0930\u094D\u0924\u0915\u093E\u0932,\u0938\u0930\u0932 \u0932\u094B\u0932\u0915 \u0915\u0947 \u0906\u0935\u0930\u094D\u0924\u0915\u093E\u0932 \u0915\u093E \u0938\u0941\u0924\u094D\u0930, formula for Time period of simple pendulum,",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/qIGRxrzc3Hc",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "8c94f394-1fdf-475a-bafb-933d94995bc6",
+      "Title": "\u0927\u094D\u0935\u0928\u093F,\u0924\u0930\u0902\u0917\u0926\u0948\u0930\u094D\u0927\u094D\u092F \u0906\u0935\u0943\u0924\u094D\u0924\u093F \u0906\u0935\u0930\u094D\u0924\u0915\u093E\u0932 \u0924\u0930\u0902\u0917 \u0935\u0947\u0917 \u0938\u092E\u094D\u092C\u0928\u094D\u0927,wave length, frequency, velocity, time period,",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/Jam32cQ1aM8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
