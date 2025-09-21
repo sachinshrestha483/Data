@@ -1,0 +1,32 @@
+{
+  "Id": "35bff4ff-1510-4fed-81a1-1e37b39e6d24",
+  "Title": "11th physics || \u092F\u0942\u0928\u093F\u091F 4 || \u0905\u0927\u094D\u092F\u093E\u092F 5 || \u0915\u093E\u0930\u094D\u092F \u090A\u0930\u094D\u091C\u093E \u0914\u0930 \u0936\u0915\u094D\u0924\u093F || unit 4 || Chapter 5 || work energy and power",
+  "DisplayOrder": 45,
+  "IsVisible": false,
+  "Items": [
+    {
+      "Id": "b58d31b0-a7b1-4e2b-8f4f-3ac36854d189",
+      "Title": "\u0938\u0902\u0930\u0915\u094D\u0937\u0940 \u092C\u0932 \u0914\u0930 \u0905\u0938\u0902\u0930\u0915\u094D\u0937\u0940 \u092C\u0932 \u092E\u0947\u0902 \u0905\u0902\u0924\u0930 ,Difference between Conservative and Non-Conservative Force ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/oKPHC-pKKzQ",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "8a7ae531-a770-4636-b409-3b7d24002f6c",
+      "Title": "\u0938\u094D\u092A\u094D\u0930\u093F\u0902\u0917 \u0915\u094B \u0916\u0940\u091A\u0928\u0947 \u092E\u0947\u0902 \u0915\u093F\u092F\u093E \u0917\u092F\u093E \u0915\u093E\u0930\u094D\u092F , \u0938\u094D\u092A\u094D\u0930\u093F\u0902\u0917 \u0915\u0940 \u0938\u094D\u0925\u093F\u0924\u093F\u091C \u090A\u0930\u094D\u091C\u093E Work done in spring-pulling ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/ik06oQAZgq8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
