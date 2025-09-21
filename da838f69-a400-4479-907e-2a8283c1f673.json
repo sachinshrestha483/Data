@@ -1,0 +1,80 @@
+{
+  "Id": "da838f69-a400-4479-907e-2a8283c1f673",
+  "Title": "12th physics || unit 8 || chapter 12 ||\u092A\u0930\u092E\u093E\u0923\u0941 || Atom || Full chapter",
+  "DisplayOrder": 71,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "a8433c50-b797-42c4-9a43-904f3f5818ee",
+      "Title": "\u0930\u0926\u0930\u095E\u094B\u0930\u094D\u0921 \u0915\u093E \u092A\u0930\u092E\u093E\u0923\u0941 \u092E\u0949\u0921\u0932,\u092A\u094D\u0930\u0947\u0915\u094D\u0937\u0923,\u0928\u093F\u0937\u094D\u0915\u0930\u094D\u0937, Rutherford model",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/VXv_Er72wFE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "c80c57f1-ea99-47a3-b95e-765b7c7321b3",
+      "Title": "\u0907\u0932\u0947\u0915\u094D\u091F\u094D\u0930\u093E\u0928,\u092A\u094D\u0930\u094B\u091F\u0949\u0928 \u0914\u0930 \u0928\u094D\u092F\u0942\u091F\u094D\u0930\u0949\u0928 \u0915\u0947 \u0917\u0941\u0923\u094B\u0902 \u0915\u0940 \u0924\u0941\u0932\u0928\u093E \u0938\u0930\u0932 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/Alk3LOVCKEI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "61723c00-1a4a-4208-9fca-f443544c8b4d",
+      "Title": "\u0939\u093E\u0907\u0921\u094D\u0930\u094B\u091C\u0928 \u092A\u0930\u092E\u093E\u0923\u0941 \u0915\u0940 \u0938\u094D\u092A\u0947\u0915\u094D\u091F\u094D\u0930\u092E\u0940 \u0936\u094D\u0930\u0947\u0923\u0940\u092F\u093E\u0901,hydrogen spectrum spectral lines",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/rqcwLoKJjWY",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "922027fb-402c-4241-9232-05f7672d39f2",
+      "Title": "\u092C\u094B\u0930 \u0915\u0947 \u092A\u0930\u092E\u093E\u0923\u0941 \u092E\u0949\u0921\u0932 \u0915\u0940 \u0915\u092E\u093F\u092F\u093E\u0902,\u0938\u0940\u092E\u093E\u092F\u0947",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/zKCRlpYke4k",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "1afa21f7-0546-4710-b01a-6175916ac036",
+      "Title": "\u092A\u0930\u092E\u093E\u0923\u0941 \u0915\u0940 n \u0935\u0940 \u092C\u094B\u0930 \u0915\u0915\u094D\u0937\u093E \u0915\u0940 \u0924\u094D\u0930\u093F\u091C\u094D\u092F\u093E n \u0915\u0947 \u0935\u0930\u094D\u0917 \u0905\u0928\u0941\u0915\u094D\u0930\u092E\u093E\u0928\u0941\u092A\u093E\u0924\u0940 \u0939\u094B\u0924\u0940 \u0939\u0948 prove it ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/eci3GR24LSU",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "533d7fed-22b4-40b4-9488-e2841d608343",
+      "Title": "\u092C\u094B\u0930 \u0915\u093E \u092A\u0930\u092E\u093E\u0923\u0941 \u092E\u0949\u0921\u0932, Bohr\u0027s Atomic model ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/dTThKXhYnD0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
