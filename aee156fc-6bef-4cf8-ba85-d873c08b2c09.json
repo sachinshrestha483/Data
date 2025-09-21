@@ -1,0 +1,32 @@
+{
+  "Id": "aee156fc-6bef-4cf8-ba85-d873c08b2c09",
+  "Title": "11th physics || \u092F\u0942\u0928\u093F\u091F 7 || \u0905\u0927\u094D\u092F\u093E\u092F 10 ||  \u0926\u094D\u0930\u0935\u094D\u092F \u0915\u0947 \u0924\u093E\u092A\u0940\u092F \u0917\u0941\u0923  || unit 7 || Chapter 10 || thermal properties of matter",
+  "DisplayOrder": 50,
+  "IsVisible": false,
+  "Items": [
+    {
+      "Id": "f150c767-3333-41c4-b468-4a95dfa3a7d5",
+      "Title": "\u0928\u094D\u092F\u0942\u091F\u0928 \u0915\u093E \u0936\u0940\u0924\u0932\u0928 \u0928\u093F\u092F\u092E ,Newton\u2019s law of cooling \u0936\u0940\u0924\u0932\u0928 \u0928\u093F\u092F\u092E \u0915\u093E \u0938\u0942\u0924\u094D\u0930 , \u0936\u0940\u0924\u0932\u0928 \u0928\u093F\u092F\u092E \u0915\u0940 \u0938\u0940\u092E\u093E\u090F\u0902",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/I1F7I3m2pJY",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "c234299e-61e1-4363-9bf0-70bc7e21f13f",
+      "Title": "\u090A\u0937\u094D\u092E\u093E \u0914\u0930 \u0924\u093E\u092A \u092E\u0947\u0902 \u0905\u0902\u0924\u0930 ,difference between heat and temperature",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/ZezwfqZj1js",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
