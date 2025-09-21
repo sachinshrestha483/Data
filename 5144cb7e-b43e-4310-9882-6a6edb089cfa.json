@@ -99,6 +99,30 @@
       "DisplayOrder": 8,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "8bd19425-dc8e-4a83-af2b-231a33b8262c",
+      "Title": "\u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u092B\u094D\u0932\u0915\u094D\u0938 \u0915\u094D\u092F\u093E \u0939\u0948 \u0965 \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u092B\u094D\u0932\u0915\u094D\u0938 \u0915\u092C \u0905\u0927\u093F\u0915\u0924\u092E \u0915\u092C \u0928\u094D\u092F\u0941\u0928\u0924\u092E \u0939\u094B\u0924\u093E \u0939\u0948 \u0965",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/IQh2jdbBI3U",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 9,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "e99e88ba-a44f-46d7-8cd7-f8cb125675fb",
+      "Title": "\u092A\u094D\u0930\u0924\u094D\u092F\u093E\u0935\u0930\u094D\u0924\u0940 \u0927\u093E\u0930\u093E \u091C\u0928\u093F\u0924\u094D\u0930, A.C .\u0921\u093E\u092F\u0928\u092E\u094B, \u092A\u094D\u0930\u0924\u094D\u092F\u093E\u0935\u0930\u094D\u0924\u0940 \u0927\u093E\u0930\u093E \u0921\u093E\u092F\u0928\u092E\u094B, ac dynamo",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/iAffG3r70a4",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 10,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
