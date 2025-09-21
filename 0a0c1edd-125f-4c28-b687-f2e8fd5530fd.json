@@ -1,0 +1,32 @@
+{
+  "Id": "0a0c1edd-125f-4c28-b687-f2e8fd5530fd",
+  "Title": "11th physics || \u092F\u0942\u0928\u093F\u091F 10 || \u0905\u0927\u094D\u092F\u093E\u092F 14 || \u0924\u0930\u0902\u0917\u0947  || unit 10 || Chapter 14 || waves",
+  "DisplayOrder": 54,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "2bc30efe-08ee-4d2c-8dc9-1ce663180972",
+      "Title": "\u0905\u0928\u0941\u0926\u0947\u0930\u094D\u0927\u094D\u092F \u0914\u0930 \u0905\u0928\u0941\u092A\u094D\u0930\u0938\u094D\u0925 \u0924\u0930\u0902\u0917 \u092E\u0947\u0902 \u0905\u0902\u0924\u0930,difference between transverse wave and longitudinal wave",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/73vYqIo-Xqk",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "a1caaa13-6edc-4718-acc9-980a19396013",
+      "Title": "\u0924\u0930\u0902\u0917\u094B\u0902 \u0915\u0947 \u0905\u0927\u094D\u092F\u093E\u0930\u094B\u092A\u0923 \u0915\u093E \u0938\u093F\u0926\u094D\u0927\u093E\u0902\u0924,principle of superposition of waves",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/3VCAPSiP1Iw",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
