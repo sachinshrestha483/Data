@@ -63,6 +63,30 @@
       "DisplayOrder": 4,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "79b5e778-09ba-48b2-97a2-8090ae653d57",
+      "Title": "\u092B\u094D\u0930\u093F\u0902\u091C \u091A\u094C\u095C\u093E\u0908 \u0915\u093E \u0938\u0942\u0924\u094D\u0930 ,formula for fringe width ,\u092F\u0902\u0917 \u0915\u093E \u0926\u094D\u0935\u093F \u0938\u094D\u0932\u093F\u091F \u092A\u094D\u0930\u092F\u094B\u0917 ,Young\u0027s double slit exp",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/noocgTwJ_9U",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "95584c23-5283-4267-a6d1-2fb2b8a16320",
+      "Title": "\u092B\u094D\u0930\u093F\u0902\u091C \u091A\u094C\u0921\u093C\u093E\u0908 \u0915\u0940 \u0928\u093F\u0930\u094D\u092D\u0930\u0924\u093E, factors on which fringe width depends ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/hmQv3Ae9GvU",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
