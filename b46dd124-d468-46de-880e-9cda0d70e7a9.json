@@ -1,0 +1,32 @@
+{
+  "Id": "b46dd124-d468-46de-880e-9cda0d70e7a9",
+  "Title": "11th physics || \u092F\u0942\u0928\u093F\u091F 7 || \u0905\u0927\u094D\u092F\u093E\u092F 9 || \u0924\u0930\u0932\u094B \u0915\u0947 \u092F\u093E\u0902\u0924\u094D\u0930\u093F\u0915 \u0917\u0941\u0923  || unit 7 || Chapter 9 || Mechanical Properties of liquids",
+  "DisplayOrder": 49,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "f101fbf8-9cf3-4eba-90c4-96533ac112f9",
+      "Title": "\u092C\u0930\u0928\u094C\u0932\u0940 \u092A\u094D\u0930\u092E\u0947\u092F \u0915\u0925\u0928 \u0914\u0930 \u0938\u093F\u0926\u094D\u0927 \u0915\u0930\u0928\u093E Bernoulli theorem",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/4UeNEH4QYUg",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "286930ef-19a1-41cb-8990-60a9faa62885",
+      "Title": "\u090A\u0937\u094D\u092E\u0940\u092F \u092A\u094D\u0930\u0938\u093E\u0930, \u0930\u0947\u0916\u0940\u092F \u092A\u094D\u0930\u0938\u093E\u0930, \u0915\u094D\u0937\u0947\u0924\u094D\u0930\u0940\u092F \u092A\u094D\u0930\u0938\u093E\u0930, \u0906\u092F\u0924\u0928 \u092A\u094D\u0930\u0938\u093E\u0930,\u0930\u0947\u0916\u0940\u092F \u092A\u094D\u0930\u0938\u093E\u0930 \u0917\u0941\u0923\u093E\u0902\u0915,\u092A\u094D\u0930\u0938\u093E\u0930 \u0917\u0941\u0923\u093E\u0902\u0915",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/9rzJYsihgYI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
