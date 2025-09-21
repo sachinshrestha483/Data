@@ -15,6 +15,90 @@
       "DisplayOrder": 1,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "1028a6a2-245a-4934-b747-3726ce89e556",
+      "Title": "\u0907\u0932\u0947\u0915\u094D\u091F\u094D\u0930\u0949\u0928 \u0935\u094B\u0932\u094D\u091F,\u0924\u093E\u092A\u093E\u092F\u0928\u093F\u0915 \u0909\u0924\u094D\u0938\u0930\u094D\u091C\u0928,\u092A\u094D\u0930\u0915\u093E\u0936 \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u092A\u094D\u0930\u092D\u093E\u0935,\u0926\u0947\u0939\u0932\u0940\u0906\u0935\u0943\u0924\u094D\u0924\u093F,\u0915\u093E\u0930\u094D\u092F \u092B\u0932\u0928,\u0926\u094D\u0930\u0935\u094D\u092F \u090F\u0935\u0902 \u0935\u093F\u0915\u093F\u0930\u0923",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/l7p6gNlKrsM",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "a793db1a-a360-4542-a53b-af65d21f6b3b",
+      "Title": "\u092A\u094D\u0930\u0915\u093E\u0936 \u0935\u093F\u0926\u092F\u0941\u0924 \u092A\u094D\u0930\u092D\u093E\u0935,\u0928\u093F\u092F\u092E,photoelectric effect, laws of photo electric emission",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/mi7B8i_KlIw",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "fbde10f3-fa16-408e-9d4e-13d3be9db803",
+      "Title": "\u0906\u0907\u0902\u0938\u094D\u091F\u0940\u0928 \u0915\u093E \u092A\u094D\u0930\u0915\u093E\u0936 \u0935\u093F\u0926\u092F\u0941\u0924 \u0938\u092E\u0940\u0915\u0930\u0923, Einstein theory of photoelectric effect",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/5PBofD8I2EE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "149ac149-9860-4b6a-99be-6d0e0efb1537",
+      "Title": "\u0906\u0907\u0902\u0938\u094D\u091F\u0940\u0928 \u0915\u093E \u092A\u094D\u0930\u0915\u093E\u0936 \u0935\u093F\u0926\u092F\u0941\u0924 \u0938\u092E\u0940\u0915\u0930\u0923, Einstein theory of photoelectric effect",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/5PBofD8I2EE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "bde69982-898e-4ec6-9746-53c9c86edbec",
+      "Title": "\u0921\u093F-\u092C\u094D\u0930\u094B\u0917\u094D\u0932\u0940 \u0938\u092E\u094D\u092C\u0928\u094D\u0927, De-broglie hypothesis ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/jBBdwZwHWM8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "01b8bd08-7412-483c-a496-2c592d5fd9d4",
+      "Title": "\u0926\u094D\u0930\u0935\u094D\u092F \u0915\u093E \u0924\u0930\u0902\u0917 \u0938\u093F\u0926\u094D\u0927\u093E\u0902\u0924 \u0926\u0948\u0928\u093F\u0915 \u091C\u0940\u0935\u0928 \u092E\u0947\u0902 \u0926\u0944\u0937\u094D\u091F\u093F\u0917\u094B\u091A\u0930 \u0915\u094D\u092F\u094B\u0902 \u0928\u0939\u0940\u0902 \u0939\u094B\u0924\u093E \u0939\u0948",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/K5mNUwBGqB0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "6d44aca0-bd2e-43f0-8025-375f7977fd03",
+      "Title": "\u0906\u0901\u0915\u093F\u0915 || \u0935\u093F\u0915\u093F\u0930\u0923 \u0924\u0925\u093E \u0926\u094D\u0930\u0935\u094D\u092F \u0915\u0940 \u0926\u094D\u0935\u0948\u0924 \u092A\u094D\u0930\u0915\u0943\u0924\u093F || Numerical Dual nature of radiation and matter ||",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/QwRjk8bVJfk",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 8,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
