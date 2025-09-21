@@ -1,0 +1,20 @@
+{
+  "Id": "0d4990fa-46bf-4faf-8405-23e82f6fc635",
+  "Title": "9th science || chapter 9 || \u0917\u0941\u0930\u0941\u0924\u094D\u0935\u093E\u0915\u0930\u094D\u0937\u0923 || Gravitation",
+  "DisplayOrder": 9,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "00d44d60-d46d-429b-b6e4-268e598652a5",
+      "Title": "\u0928\u094D\u092F\u0942\u091F\u0928 \u0915\u093E \u0938\u093E\u0930\u094D\u0935\u0924\u094D\u0930\u093F\u0915 \u0917\u0941\u0930\u0941\u0924\u094D\u0935\u093E\u0915\u0930\u094D\u0937\u0923 \u0915\u093E \u0928\u093F\u092F\u092E Newton\u0027s law of universal gravitation ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/tXHADCEIVJE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
