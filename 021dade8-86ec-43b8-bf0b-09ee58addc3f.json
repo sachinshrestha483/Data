@@ -123,6 +123,42 @@
       "DisplayOrder": 10,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "75d204d3-daf0-4ce3-9d7f-ef148df4ad31",
+      "Title": "\u0938\u0930\u0932 \u0938\u0942\u0915\u094D\u0937\u094D\u092E\u0926\u0930\u094D\u0936\u0940 \u0938\u0942\u0924\u094D\u0930 \u0938\u0939\u093F\u0924 , Simple microscope with formula",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/uQlS1wrOQqk",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 11,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "27e03b04-aeb6-42ad-864d-1a407f36ce9a",
+      "Title": "\u0938\u0902\u092F\u0941\u0915\u094D\u0924 \u0938\u0942\u0915\u094D\u0937\u094D\u092E\u0926\u0930\u094D\u0936\u0940 \u0938\u0942\u0924\u094D\u0930 \u0938\u0939\u093F\u0924 ,compound microscope with derivation",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/dQRKzMXuZ10",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 12,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "5273dcfa-bd97-44df-b2c7-5898fd72fd10",
+      "Title": "\u0906\u0902\u0915\u093F\u0915 | \u0915\u093F\u0930\u0923 \u092A\u094D\u0930\u0915\u093E\u0936\u093F\u0915\u0940 \u090F\u0935\u0902 \u092A\u094D\u0930\u0915\u093E\u0936\u093F\u0915 \u092F\u0902\u0924\u094D\u0930 | NCERT Book ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/ZUuIJLJFszw",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 13,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
