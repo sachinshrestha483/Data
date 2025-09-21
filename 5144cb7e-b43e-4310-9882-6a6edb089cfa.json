@@ -75,6 +75,30 @@
       "DisplayOrder": 6,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "c5bd77ef-7ccf-4cbb-b0f3-5dc8f76d7c88",
+      "Title": "\u0938\u094D\u0935\u092A\u094D\u0930\u0947\u0930\u0923 \u0914\u0930 \u0905\u0928\u094D\u092F\u094B\u0928\u094D\u092F \u092A\u094D\u0930\u0947\u0930\u0923 \u092E\u0947\u0902 \u0905\u0902\u0924\u0930,difference self-induction and mutual-induction",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/cIqjXaDHEXA",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "23a18dca-9bd3-4673-8b7d-e24ff76b60f0",
+      "Title": "\u0917\u0924\u093F\u0915 \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u0935\u093E\u0939\u0915 \u092C\u0932 \u0915\u094D\u092F\u093E \u0939\u0948 ,\u0917\u0924\u093F\u0915 \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u0935\u093E\u0939\u0915 \u092C\u0932 \u0915\u093E \u0938\u0942\u0924\u094D\u0930 ,motional e.m.f ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/_nLuZFYlMj4",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 8,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
