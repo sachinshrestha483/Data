@@ -1,0 +1,68 @@
+{
+  "Id": "021dade8-86ec-43b8-bf0b-09ee58addc3f",
+  "Title": "12th physics || unit 6 || chapter 9 || \u0915\u093F\u0930\u0923 \u092A\u094D\u0930\u0915\u093E\u0936\u093F\u0915\u0940 \u090F\u0935\u0902 \u092A\u094D\u0930\u0915\u093E\u0936\u093F\u0915 \u092F\u0902\u0924\u094D\u0930 || Ray optics and optical instruments",
+  "DisplayOrder": 68,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "6a3661dd-5b84-4c00-bb81-2504627c4e68",
+      "Title": "\u092A\u094D\u0930\u0915\u093E\u0936 \u0915\u093E \u092A\u0930\u093E\u0935\u0930\u094D\u0924\u0928,\u092A\u0930\u093E\u0935\u0930\u094D\u0924\u0928 \u0915\u0947 \u0928\u093F\u092F\u092E,Reflection of light, Reflection rules,10th science,12th physics",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/n6q4mFYR6o0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "8a89ca2f-0631-4c8c-95ec-5b89c0ea4fcb",
+      "Title": "\u0917\u094B\u0932\u0940\u092F \u0926\u0930\u094D\u092A\u0923 \u092A\u0930\u093F\u092D\u093E\u0937\u093E\u090F\u0902 \u0927\u094D\u0930\u0941\u0935,\u0935\u0915\u094D\u0930\u0924\u093E \u0915\u0947\u0902\u0926,\u0935\u0915\u094D\u0930\u0924\u093E \u0924\u094D\u0930\u093F\u091C\u094D\u092F\u093E,\u092B\u094B\u0915\u0938,\u092B\u094B\u0915\u0938,\u092B\u094B\u0915\u0938 \u0926\u0942\u0930\u0940,\u0926\u094D\u0935\u093E\u0930\u0915, spherical mirror",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/6xUFQvRBGio",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "085706bc-778e-45bd-865a-9ba2055fbb08",
+      "Title": "\u0905\u0935\u0924\u0932 \u0926\u0930\u094D\u092A\u0923  \u0915\u0947 \u092A\u094D\u0930\u0924\u093F\u092C\u093F\u092E\u094D\u092C,\u0938\u092D\u0940 6 \u0938\u094D\u0925\u093F\u0924\u093F\u092F\u093E\u0902 1 \u091A\u093F\u0924\u094D\u0930 \u092E\u0947,Concave mirror 6 in 1,concave mirror image",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/ImPsEjxIteU",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "e45e9c6f-b5a2-4c23-aaf3-f2212ca8922d",
+      "Title": "\u0917\u094B\u0932\u0940\u092F \u0926\u0930\u094D\u092A\u0923 \u0915\u0940 \u0935\u0915\u094D\u0930\u0924\u093E \u0924\u094D\u0930\u093F\u091C\u094D\u092F\u093E \u0914\u0930 \u092B\u094B\u0915\u0938 \u0926\u0942\u0930\u0940 \u092E\u0947\u0902 \u0938\u0902\u092C\u0902\u0927 ,focal length and radius of curvature ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/zalvdJ_nwn0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "6fe3f44a-b6ba-4e23-a73d-fce0eb5a6b4c",
+      "Title": "\u0926\u0930\u094D\u092A\u0923 \u0938\u0942\u0924\u094D\u0930 \u0915\u0940 \u0938\u094D\u0925\u093E\u092A\u0928\u093E,Mirror formula in concave mirror, mirror formula, u v f relation",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/5I_TovMe-0M",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
