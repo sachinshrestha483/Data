@@ -1,0 +1,32 @@
+{
+  "Id": "c8545975-432e-416a-83bf-c0417ac6ed73",
+  "Title": "11th physics || \u092F\u0942\u0928\u093F\u091F 5 || \u0905\u0927\u094D\u092F\u093E\u092F 6 || \u0915\u0923\u094B \u0915\u0947 \u0928\u093F\u0915\u093E\u092F \u0924\u0925\u093E \u0918\u0941\u0930\u094D\u0923\u0940 \u0917\u0924\u093F || unit 5 || Chapter 6 || Systems of particles and rotational motion",
+  "DisplayOrder": 46,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "1e2f5b9a-10d2-4e46-b15e-125282e9c9cb",
+      "Title": " \u091C\u095C\u0924\u094D\u0935 \u0906\u0918\u0942\u0930\u094D\u0923 \u0915\u0940 \u092A\u0930\u093F\u092D\u093E\u0937\u093E \u090F\u0935\u0902 \u0938\u0942\u0924\u094D\u0930 \u0915\u0940 \u0938\u094D\u0925\u093E\u092A\u0928\u093E ,Moment of inertia formula",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/d7yuTYGkr78",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "3af51ca3-802c-49f0-b03b-16d453c3b781",
+      "Title": "\u092C\u0932 \u0906\u0918\u0942\u0930\u094D\u0923 \u0915\u093E \u0938\u0942\u0924\u094D\u0930 Moment of force formula",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/Gj9_B2XG0aI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
