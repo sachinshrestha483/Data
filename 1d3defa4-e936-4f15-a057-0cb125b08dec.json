@@ -1,0 +1,20 @@
+{
+  "Id": "1d3defa4-e936-4f15-a057-0cb125b08dec",
+  "Title": "10th science || chapter 10 || \u092E\u093E\u0928\u0935 \u0928\u0947\u0924\u094D\u0930 \u090F\u0935\u0902 \u0930\u0902\u0917 \u092C\u093F\u0930\u0902\u0917\u093E \u0938\u0902\u0938\u093E\u0930 || \u0905\u0927\u094D\u092F\u093E\u092F 10 || The Human Eye and colorful world",
+  "DisplayOrder": 10,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "f433e17e-a492-40ad-925d-14a0fc48756c",
+      "Title": "\u092E\u093E\u0928\u0935 \u0928\u0947\u0924\u094D\u0930 \u0915\u0940 \u0930\u091A\u0928\u093E Human eye structure",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/7XaNeQYLZ9c",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
