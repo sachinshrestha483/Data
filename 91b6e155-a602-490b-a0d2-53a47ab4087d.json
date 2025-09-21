@@ -1,0 +1,32 @@
+{
+  "Id": "91b6e155-a602-490b-a0d2-53a47ab4087d",
+  "Title": "12th physics || unit 5 || chapter 8 || \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u091A\u0941\u0902\u092C\u0915\u0940\u092F \u0924\u0930\u0902\u0917\u0947 || Electromagnetic waves",
+  "DisplayOrder": 67,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "d343498f-d610-45e1-8928-078d15606adc",
+      "Title": "\u0935\u093F\u0926\u094D\u092F\u0941\u0924\u094D \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u0924\u0930\u0902\u0917\u094B\u0902 \u0915\u0940 \u092A\u0930\u093F\u092D\u093E\u0937\u093E,\u0909\u0928\u0915\u0940 \u0935\u093F\u0936\u0947\u0937\u0924\u093E\u090F\u0902 ,Electromagnetic waves, electromagnetic waves",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/4rObJGG0uW8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "2d1b3cc8-a5fd-4598-8b4e-86520c28d5aa",
+      "Title": "\u0935\u093F\u0926\u094D\u092F\u0941\u0924\u094D \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u0924\u0930\u0902\u0917\u094B\u0902 \u0915\u0947 \u092A\u094D\u0930\u0915\u093E\u0930,\u0917\u0941\u0923,\u0909\u092A\u092F\u094B\u0917",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/H3ddO5TSe54",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
