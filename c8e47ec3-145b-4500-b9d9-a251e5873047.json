@@ -1,0 +1,92 @@
+{
+  "Id": "c8e47ec3-145b-4500-b9d9-a251e5873047",
+  "Title": "12th physics || unit 9 || chapter 14 || \u0905\u0930\u094D\u0926\u094D\u0927\u091A\u093E\u0932\u0915 \u0907\u0932\u0947\u0915\u094D\u091F\u094D\u0930\u0949\u0928\u093F\u0915\u0940  || Semiconductor devices",
+  "DisplayOrder": 73,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "e5a1f2b6-fcaf-46b1-9f8f-ce2ef8f129a6",
+      "Title": "\u0928\u093F\u091C \u0905\u0930\u094D\u0927\u091A\u093E\u0932\u0915 \u0914\u0930 \u092C\u093E\u0939\u094D\u092F \u0905\u0930\u094D\u0927\u091A\u093E\u0932\u0915 \u092E\u0947\u0902 \u0905\u0902\u0924\u0930\u0964| Difference between intrinsic and extrinsic semiconductor\u0964|",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/t8HzaQCQiU8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "187ffb09-af55-4e38-8908-668277eff35e",
+      "Title": "n \u092A\u094D\u0930\u0915\u093E\u0930 \u0915\u0947 \u0905\u0930\u094D\u0927\u091A\u093E\u0932\u0915 p \u092A\u094D\u0930\u0915\u093E\u0930 \u0915\u0947 \u0905\u0930\u094D\u0927\u091A\u093E\u0932\u0915 \u092E\u0947\u0902\u0905\u0902\u0924\u0930,difference between n and p type semiconductor,",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/VQOvd3viiEc",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "64ca2db5-843b-47bd-95fc-14478b86ac32",
+      "Title": "p-n \u0938\u0902\u0927\u093F \u0921\u093E\u092F\u094B\u0921 \u0915\u094D\u092F\u093E \u0939\u0948 ,\u0905\u0935\u0915\u094D\u0937\u092F \u092A\u0930\u094D\u0924  \u0915\u094D\u092F\u093E \u0939\u0948 ,\u0930\u094B\u0927\u093F\u0915\u093E \u0935\u093F\u092D\u0935 \u0915\u094D\u092F\u093E \u0939\u0948 ,p-n junction diode in Hindi,",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/ZL0dtKv5NQs",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "ae7008e4-babe-4921-9632-e6145a9d40fd",
+      "Title": "p-n \u0938\u0902\u0927\u093F \u0921\u093E\u092F\u094B\u0921 \u0905\u0917\u094D\u0930 \u0905\u092D\u093F\u0928\u0924\u093F,p-n junction diode in forward bias",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/7A2GutnZATw",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "3f10c6ec-7f10-4c61-bece-b11312f4794e",
+      "Title": "p-n \u0938\u0902\u0927\u093F \u0921\u093E\u092F\u094B\u0921 \u092A\u0936\u094D\u091A \u0905\u092D\u093F\u0928\u0924\u093F,\u0909\u0924\u094D\u0915\u094D\u0930\u092E \u0905\u092D\u093F\u0928\u0924\u093F, p-n junction diode reverse bias, reverse bias",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/wwzMPAOIwWg",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "4b84a50c-0bf4-48fb-9082-5dc29a92eea6",
+      "Title": "\u092A\u0942\u0930\u094D\u0923 \u0924\u0930\u0902\u0917 \u0926\u093F\u0937\u094D\u091F\u0915\u093E\u0930\u0940,full wave rectifier,\u0926\u093F\u0937\u094D\u091F\u0915\u0930\u0923,\u0926\u093F\u0937\u094D\u091F\u0915\u093E\u0930\u0940,rectifier diagram, rectifier working",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/kHl6fOJs32E",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "d703e972-1b87-40d2-a701-7084a896e495",
+      "Title": "\u0905\u0930\u094D\u0927 \u0924\u0930\u0902\u0917 \u0926\u093F\u0937\u094D\u091F\u0915\u093E\u0930\u0940,\u0905\u0930\u094D\u0927 \u0924\u0930\u0902\u0917 \u0926\u093F\u0937\u094D\u091F\u0915\u093E\u0930\u0940 \u0915\u0940 \u0915\u093E\u0930\u094D\u092F\u0935\u093F\u0927\u093F | \u0928\u093F\u0930\u094D\u0917\u0924 \u0914\u0930 \u0928\u093F\u0935\u0947\u0936\u0940 \u0935\u0915\u094D\u0930 | half wave rectifier",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtube.com/live/hshJI7zvP60",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
