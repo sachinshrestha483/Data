@@ -75,6 +75,18 @@
       "DisplayOrder": 6,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "70aa1667-85af-4f20-b6e0-870cac8d06f0",
+      "Title": "\u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u091A\u0948\u092A\u094D\u091F\u0930 \u0915\u0947 \u0906\u0902\u0915\u093F\u0915 \u092A\u094D\u0930\u0936\u094D\u0928 ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/78OtkiRbc1k",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
