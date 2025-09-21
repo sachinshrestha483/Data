@@ -1,0 +1,80 @@
+{
+  "Id": "5144cb7e-b43e-4310-9882-6a6edb089cfa",
+  "Title": "12th physics || unit 4 || chapter 6 || \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u092A\u094D\u0930\u0947\u0930\u0923 || electromagnetic induction",
+  "DisplayOrder": 65,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "fe8f17a4-456d-4a4e-a947-d61504ac1617",
+      "Title": "\u0935\u093F\u0926\u094D\u092F\u0941\u0924\u094D \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u092A\u094D\u0930\u0947\u0930\u0923,electromagnetic induction",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/Ut-2cyiVvG4",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "35cd92d3-932e-45df-96ae-12f010454033",
+      "Title": "\u092B\u0948\u0930\u093E\u0921\u0947 \u0915\u0947 \u0935\u0948\u0926\u094D\u092F\u0941\u0924 \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u092A\u094D\u0930\u0947\u0930\u0923 \u0915\u0947 \u0928\u093F\u092F\u092E,faradays law of electromagnetic induction",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/Gnsrf-Gv2KA",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "9c910fc9-18da-41eb-a983-e78548555502",
+      "Title": "\u0932\u0947\u0902\u091C \u0915\u093E \u0928\u093F\u092F\u092E, \u090A\u0930\u094D\u091C\u093E \u0938\u0902\u0930\u0915\u094D\u0937\u0923 \u0915\u0947 \u0928\u093F\u092F\u092E \u0915\u0947 \u0905\u0928\u0941\u0915\u0942\u0932 \u0939\u0948,Lenz law,lenz law and ,conservation of energy,",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/i8nCqQHOuM4",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "68e32ef0-8151-4265-a54a-c03769621e0b",
+      "Title": "\u092A\u0930\u093F\u0928\u093E\u0932\u093F\u0915\u093E \u0915\u093E \u0938\u094D\u0935\u092A\u094D\u0930\u0947\u0930\u0915\u0924\u094D\u0935, \u0938\u094D\u0935\u092A\u094D\u0930\u0947\u0930\u0915\u0924\u094D\u0935 ,\u0938\u094D\u0935\u092A\u094D\u0930\u0947\u0930\u0915\u0924\u094D\u0935 \u0915\u0940 \u0928\u093F\u0930\u094D\u092D\u0930\u0924\u093E ,self-inductance of solenoid",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/4fyX3zq7N4g",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "f89454e9-5e8c-4c6d-848b-4c3ff09c1a67",
+      "Title": "\u0938\u094D\u0935-\u092A\u094D\u0930\u0947\u0930\u0915\u0924\u094D\u0935 \u0915\u0947 \u0938\u0942\u0924\u094D\u0930,\u092A\u0930\u093F\u0928\u093E\u0932\u093F\u0915\u093E \u0915\u093E,\u0938\u092E\u0924\u0932 \u0935\u0943\u0924\u093E\u0915\u093E\u0930 \u0915\u0941\u0902\u0921\u0932\u0940,formula for self-inductance of long solenoid",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtube.com/live/ZZF7ur4bsUo",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "8b00d069-ce9f-42c5-bae9-4aaa33e14c47",
+      "Title": "\u0926\u094B \u092A\u0930\u093F\u0928\u093E\u0932\u093F\u0915\u093E\u0913 \u0915\u0947 \u092E\u0927\u094D\u092F \u0905\u0928\u094D\u092F\u094B\u0928\u094D\u092F \u092A\u094D\u0930\u0947\u0930\u0915\u0924\u094D\u0935 \u0938\u0942\u0924\u094D\u0930,formula for mutual induction between two solenoid",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/ky6VGWnqqKk",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
