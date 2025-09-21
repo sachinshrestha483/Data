@@ -15,6 +15,42 @@
       "DisplayOrder": 1,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "07d9ddfd-0160-4014-8b74-0a33dd2b5235",
+      "Title": "10th science||chapter 1||part_2||chemical reactions and equations||Exothermic reactions||EM",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/yQu-1KqR4Mg",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "cecaee94-79d9-48fe-b123-221ad2e4a501",
+      "Title": "10th science||chapter 1||part_3||chemical reactions and equations||respiration is an exothermic||EM",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/dK4A6CC-5oQ",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "41d99438-b7a4-4df7-95fe-3df4b5635e6b",
+      "Title": "A brown shiny element X turns black when heated in the presence of air. Tell the name of this element X and that black colored compound?",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/8pN6dZEM1aQ",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
