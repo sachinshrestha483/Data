@@ -1,0 +1,80 @@
+{
+  "Id": "a648dfeb-1ece-4d03-a3f8-3c8b87fdd419",
+  "Title": "11th physics || \u092F\u0942\u0928\u093F\u091F 2 || \u0905\u0927\u094D\u092F\u093E\u092F 2 || \u0938\u0930\u0932 \u0930\u0947\u0916\u093E \u092E\u0947\u0902 \u0917\u0924\u093F || unit 2 || Chapter 2 || motion in a straight line",
+  "DisplayOrder": 0,
+  "IsVisible": true,
+  "Items": [
+    {
+      "Id": "ef39c537-7763-40a7-830d-457b9365fbe3",
+      "Title": "\u0917\u0924\u093F \u0915\u093E \u092A\u0939\u0932\u093E \u0938\u092E\u0940\u0915\u0930\u0923 \u0917\u094D\u0930\u093E\u092B \u0935\u093F\u0927\u093F \u0938\u0947 , first equation of motion by graph method, equation of motion,",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/bFcFSF4z4yI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "ad490dc8-7048-48f7-a610-b3be7568548d",
+      "Title": "\u0917\u0924\u093F \u0915\u093E \u0926\u0941\u0938\u0930\u093E \u0938\u092E\u0940\u0915\u0930\u0923 \u0917\u094D\u0930\u093E\u092B \u0935\u093F\u0927\u093F \u0938\u0947 , Second equation of motion by Graph",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/qp8BB2160Bo",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "fcab770e-c823-43a4-b90d-d9a5544713a5",
+      "Title": "\u0917\u0924\u093F \u0915\u093E \u0924\u0940\u0938\u0930\u093E \u0938\u092E\u0940\u0915\u0930\u0923 \u0917\u094D\u0930\u093E\u092B \u0935\u093F\u0927\u093F \u0938\u0947 ,Third eq of motion by graph",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/80Tl9wUtJvA",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "a3abf4fa-6ac6-48a7-8bfc-ce10dbe4b94d",
+      "Title": "\u0938\u092E\u093E\u0915\u0932\u0928 \u0935\u093F\u0927\u093F \u0938\u0947 \u0917\u0924\u093F \u0915\u093E \u092A\u0939\u0932\u093E \u0938\u092E\u0940\u0915\u0930\u0923 , first equation of motion by integration method in Hindi",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/fRd0RJVaqrE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "2c95f29a-7629-4301-86f4-1c311917afba",
+      "Title": "\u0938\u092E\u093E\u0915\u0932\u0928 \u0935\u093F\u0927\u093F \u0938\u0947 \u0917\u0924\u093F \u0915\u093E \u0926\u0942\u0938\u0930\u093E \u0938\u092E\u0940\u0915\u0930\u0923 , Second equation of motion by integration method in Hindi",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/0_g3dR9aWjg",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "f5a1e1ff-bfe1-4921-8b95-074e9bde6023",
+      "Title": "\u0938\u092E\u093E\u0915\u0932\u0928 \u0935\u093F\u0927\u093F \u0938\u0947 \u0917\u0924\u093F \u0915\u093E \u0924\u0940\u0938\u0930\u093E \u0938\u092E\u0940\u0915\u0930\u0923 , Third equation of motion by integration method in Hindi",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/0_g3dR9aWjg",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
+}
