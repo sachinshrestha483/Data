@@ -39,6 +39,30 @@
       "DisplayOrder": 3,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "16fd77a4-a1d3-4881-91a5-d6d57c7f3e57",
+      "Title": "\u0917\u0939\u0930\u093E\u0908 \u0915\u0947 \u0938\u093E\u0925 g \u0915\u0947 \u092E\u093E\u0928 \u092E\u0947\u0902 \u092A\u0930\u093F\u0935\u0930\u094D\u0924\u0928 \u0915\u093E \u0938\u0942\u0924\u094D\u0930 ",
+      "Description": "\u092A\u0943\u0925\u094D\u0935\u0940 \u0915\u0940 \u0938\u0924\u0939 \u0938\u0947 \u0917\u0939\u0930\u093E\u0908 \u0915\u0947 \u0938\u093E\u0925 g \u0905\u0930\u094D\u0925\u093E\u0924 \u0917\u0941\u0930\u0941\u0924\u094D\u0935\u0940\u092F \u0924\u094D\u0935\u0930\u0923 \u0915\u0947 \u092E\u093E\u0928 \u092E\u0947\u0902 \u0915\u092E\u0940 \u0939\u094B\u0924\u0940 \u0939\u0948\r\n\u092F\u0947 \u0915\u092E\u0940 \u0915\u093F\u0924\u0928\u0940 \u0939\u094B\u0924\u0940 \u0939\u0948\r\n\u092A\u0943\u0925\u094D\u0935\u0940 \u0915\u0947 \u0915\u0947\u0902\u0926\u094D\u0930 \u092A\u0930 \u092F\u0947 \u092E\u093E\u0928 \u0915\u093F\u0924\u0928\u093E \u0939\u0948 \r\n\u0907\u0938 \u0938\u092C \u0938\u0935\u093E\u0932\u094B\u0902 \u0915\u0940 \u0917\u0923\u093F\u0924\u0940\u092F \u0935\u094D\u092F\u093E\u0916\u094D\u092F\u093E \u0915\u0940 \u0917\u0908 \u0939\u0948\u0964",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/JhAIhyoDmYI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "3aeef957-dc43-4d2b-8801-dbcf326d32db",
+      "Title": "g \u0914\u0930 G \u092E\u0947\u0902 \u092E\u0941\u0916\u094D\u092F \u0905\u0902\u0924\u0930 (Key Differences)",
+      "Description": "g (Acceleration due to Gravity) \u0915\u094D\u092F\u093E \u0939\u0948?\r\n\r\nG (Universal Gravitational Constant) \u0915\u094D\u092F\u093E \u0939\u0948?\r\n\r\ng \u0914\u0930 G \u092E\u0947\u0902 \u092E\u0941\u0916\u094D\u092F \u0905\u0902\u0924\u0930 (Key Differences)\r\n",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/AbDuioTZpCw",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
