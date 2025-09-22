@@ -7,12 +7,36 @@
     {
       "Id": "c51c7841-74a1-422a-96c9-10b86278d7f7",
       "Title": "\u0927\u093E\u0924\u0941 \u0914\u0930 \u0905\u0927\u093E\u0924\u0941 \u092E\u0947\u0902 \u092D\u094C\u0924\u093F\u0915 \u0917\u0941\u0923\u094B\u0902 \u092E\u0947\u0902 \u0905\u0902\u0924\u0930",
-      "Description": null,
+      "Description": "\u090F\u0915 \u0938\u0930\u0932 \u091F\u094D\u0930\u093F\u0915 \u0915\u0940 \u092E\u0926\u0926 \u0938\u0947 \u0905\u0902\u0924\u0930 ",
       "Url": null,
       "VideoUrl": "https://youtu.be/RPGIVqimyDM",
       "Start": null,
       "End": null,
       "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "a0967885-f6ac-4c2d-b7df-a79573944b38",
+      "Title": "\u0927\u093E\u0924\u0941 \u0905\u0927\u093E\u0924\u0941 \u0915\u0947 \u0930\u093E\u0938\u093E\u092F\u0928\u093F\u0915 \u0917\u0941\u0923\u094B\u0902 \u092E\u0947\u0902 \u0905\u0902\u0924\u0930,Metal nonmetal chemical property difference",
+      "Description": "\u091F\u094D\u0930\u093F\u0915 \u0938\u0947 ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/S7qV0RAIIHs",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "04f15eda-37eb-4eec-9e42-5591b25af99b",
+      "Title": "\u0927\u093E\u0924\u0941\u0913\u0902 \u0915\u0940 \u0938\u0915\u094D\u0930\u093F\u092F\u0924\u093E \u0936\u094D\u0930\u0947\u0923\u0940 The reactivity series of metals ",
+      "Description": "\u0927\u093E\u0924\u0941\u0913\u0902 \u0915\u0940 \u0938\u0915\u094D\u0930\u093F\u092F\u0924\u093E \u0936\u094D\u0930\u0947\u0923\u0940",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/F_h0O4rQGtk",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
       "IsVisible": true,
       "Items": []
     }
