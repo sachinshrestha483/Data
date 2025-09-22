@@ -39,6 +39,18 @@
       "DisplayOrder": 3,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "6c40d418-64d6-4307-96ea-cc9065913890",
+      "Title": "\u0926\u093E\u0939\u093F\u0928\u0947\u0902 \u0939\u093E\u0925 \u0915\u0947 \u0905\u0902\u0917\u0942\u0920\u0947 \u0915\u093E \u0928\u093F\u092F\u092E Right hand thumb rule magnetic field",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/jBE44UAtWzI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
