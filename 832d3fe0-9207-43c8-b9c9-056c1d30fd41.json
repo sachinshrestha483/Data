@@ -51,6 +51,18 @@
       "DisplayOrder": 4,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "da830c5d-d038-499b-be45-7920597cdd71",
+      "Title": "\u0935\u093F\u0926\u094D\u092F\u0941\u0924\u094D \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u092A\u094D\u0930\u0947\u0930\u0923,electromagnetic induction",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/Ut-2cyiVvG4",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
