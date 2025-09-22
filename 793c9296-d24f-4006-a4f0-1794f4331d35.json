@@ -27,6 +27,18 @@
       "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "05a5a474-6949-4f16-9ce6-c24c8bd14585",
+      "Title": "\u0917\u0941\u0930\u0941\u0924\u094D\u0935\u0940\u092F \u0924\u094D\u0935\u0930\u0923 (Acceleration due to Gravity \u2013 g) \u0915\u093E \u092E\u093E\u0928 \u092A\u0943\u0925\u094D\u0935\u0940 \u0915\u0940 \u0938\u0924\u0939 \u0938\u0947 \u090A\u0901\u091A\u093E\u0908 \u092A\u0930 \u0938\u0942\u0924\u094D\u0930 \u0938\u0947 \u0917\u0923\u0928\u093E ",
+      "Description": "\u0938\u0942\u0924\u094D\u0930 \u0915\u0940 \u0938\u094D\u0925\u093E\u092A\u0928\u093E \u0914\u0930 \u0928\u093F\u0937\u094D\u0915\u0930\u094D\u0937 ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/BKDmcC3gSgE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
