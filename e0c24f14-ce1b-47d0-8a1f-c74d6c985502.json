@@ -27,6 +27,18 @@
       "DisplayOrder": 1,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "8ca8ab52-994e-448a-8498-1b0d9c9db7b8",
+      "Title": "\u0907\u0932\u0947\u0915\u094D\u091F\u094D\u0930\u093E\u0928 \u092C\u093F\u0902\u0926\u0941 \u0938\u0902\u0930\u091A\u0928\u093E, electron dot structure",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/mLhknlfG414",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
