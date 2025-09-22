@@ -75,6 +75,18 @@
       "DisplayOrder": 6,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "485f5293-fb0a-4f18-b197-de3af6759c5a",
+      "Title": "\u091A\u0941\u0902\u092C\u0915\u0940\u092F \u0915\u094D\u0937\u0947\u0924\u094D\u0930 \u0915\u0947 \u0938\u094D\u0924\u094D\u0930\u094B\u0924,sources of magnetic field",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/j1gaR3SdSYU",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
