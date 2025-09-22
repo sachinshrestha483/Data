@@ -15,6 +15,18 @@
       "DisplayOrder": 1,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "03bd624c-708b-41a4-813b-bdf823753582",
+      "Title": "\u0926\u094B \u091A\u0941\u092E\u094D\u092C\u0915\u0940\u092F \u0915\u094D\u0937\u0947\u0924\u094D\u0930 \u0930\u0947\u0916\u093E\u092F\u0947 \u090F\u0915 \u0926\u0941\u0938\u0930\u0947 \u0915\u094B \u0915\u094D\u092F\u094B\u0902 \u0928\u0939\u0940\u0902 \u0915\u093E\u091F\u0924\u0940 \u0939\u0948,why magnetic field do not intersect",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/AUA-qWdMB7Q",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
