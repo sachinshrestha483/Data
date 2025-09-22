@@ -39,6 +39,42 @@
       "DisplayOrder": 3,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "7bc1ea73-018f-4c76-83fb-8d6f3a93f53c",
+      "Title": "\u0906\u092F\u0928\u093F\u0915 \u092F\u094B\u0917\u093F\u0915\u094B\u0902 \u0915\u0947 \u0917\u0941\u0923 properties of ionic compound",
+      "Description": "\u0906\u092F\u0928\u093F\u0915 \u092F\u094B\u0917\u093F\u0915\u094B\u0902 \u0915\u0947 \u0917\u0941\u0923,\u0917\u0932\u0928\u093E\u0902\u0915 \u0909\u091A\u094D\u091A \u0915\u094D\u092F\u094B\u0902?  ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/dxuqX9lH61U",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "c3c1fdc9-fd9d-4ae1-b8be-dcea9f741404",
+      "Title": "\u090F\u0928\u0940\u092E\u0947\u0936\u0928 \u0938\u0947 \u091A\u093F\u0924\u094D\u0930 \u092C\u0928\u093E\u090F\u0902,\u0924\u093E\u0902\u092C\u0947 \u0915\u0947 \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u0905\u092A\u0918\u091F\u0928\u0940 \u092A\u0930\u093F\u0937\u094D\u0915\u0930\u0923, Animation diagram of copper electrorefining",
+      "Description": "\u0924\u093E\u0902\u092C\u0947 \u0915\u093E \u0935\u093F\u0926\u094D\u092F\u0941\u0924 \u0905\u092A\u0918\u091F\u0928\u0940 \u092A\u0930\u093F\u0937\u094D\u0915\u0930\u0923",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/_-j57dA8sLg",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "d6162f72-61f3-44de-aa8b-bc5bb94f7588",
+      "Title": " \u0927\u093E\u0924\u0941-\u0938\u0902\u0915\u094D\u0937\u093E\u0930\u0923 \u0914\u0930 \u092C\u091A\u093E\u0935 \u0915\u0947 \u0909\u092A\u093E\u092F ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/4G3SFCIKBDs",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
