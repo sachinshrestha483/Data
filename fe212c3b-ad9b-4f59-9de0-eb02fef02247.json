@@ -63,6 +63,18 @@
       "DisplayOrder": 5,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "69769e00-d484-42fc-956a-112212883e01",
+      "Title": "\u0938\u0926\u093F\u0936\u094B\u0902 \u0915\u093E \u0938\u0926\u093F\u0936 \u0917\u0941\u0923\u0928\u092B\u0932 | Vector Product of Vectors | Torque (\u092C\u0932 \u0906\u0918\u0942\u0930\u094D\u0923) | Cross Product | 11th Physics | ",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/TaTYPyKteYA",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
