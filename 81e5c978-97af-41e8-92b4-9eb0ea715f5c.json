@@ -87,6 +87,18 @@
       "DisplayOrder": 7,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "6dcedbe9-f324-4c7d-a976-3d98508f8a58",
+      "Title": "\u0930\u0947\u0916\u093F\u0924 \u092A\u0947\u0936\u0940 (Skeletal Muscle), \u0905\u0930\u0947\u0916\u093F\u0924 \u092A\u0947\u0936\u0940 (Smooth Muscle) \u0914\u0930 \u0939\u0943\u0926\u092F \u092A\u0947\u0936\u0940 (Cardiac Muscle) ",
+      "Description": "\u0930\u0947\u0916\u093F\u0924 \u092A\u0947\u0936\u0940 (Skeletal Muscle), \u0905\u0930\u0947\u0916\u093F\u0924 \u092A\u0947\u0936\u0940 (Smooth Muscle) \u0914\u0930 \u0939\u0943\u0926\u092F \u092A\u0947\u0936\u0940 (Cardiac Muscle) \u0915\u0947 \u092C\u0940\u091A \u0915\u093E \u0905\u0902\u0924\u0930 ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/leIO_Q-Lbt0",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 8,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
