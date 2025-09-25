@@ -387,13 +387,13 @@
     "Id": "a46e3592-8b83-42b1-8754-c665de153340",
     "DisplayOrder": 55,
     "IsVisible": true,
-    "Subject": "11th \u092B\u093F\u091C\u093F\u0915\u094D\u0938 \u0906\u092C\u094D\u091C\u0947\u0915\u094D\u091F\u093F\u0935 OBJECTIVE QUESTIONS"
+    "Subject": "11th \u092B\u093F\u091C\u093F\u0915\u094D\u0938 || \u0906\u092C\u094D\u091C\u0947\u0915\u094D\u091F\u093F\u0935 || OBJECTIVE QUESTIONS"
   },
   {
     "Id": "349bfd6a-6ddb-4460-868d-892d094ac01e",
     "DisplayOrder": 75,
     "IsVisible": true,
-    "Subject": "12th \u092B\u093F\u091C\u093F\u0915\u094D\u0938  \u0906\u092C\u094D\u091C\u0947\u0915\u094D\u091F\u093F\u0935 \u092A\u094D\u0930\u0936\u094D\u0928 OBJECTIVE QUESTIONS "
+    "Subject": "12th \u092B\u093F\u091C\u093F\u0915\u094D\u0938 || \u0906\u092C\u094D\u091C\u0947\u0915\u094D\u091F\u093F\u0935 \u092A\u094D\u0930\u0936\u094D\u0928 || OBJECTIVE QUESTIONS "
   },
   {
     "Id": "7c7c6c16-deae-4440-b519-778c9d30d896",
@@ -452,7 +452,31 @@
   {
     "Id": "e3e393bc-3d94-4b8f-9fe8-5698f1d4156e",
     "DisplayOrder": 16,
-    "IsVisible": false,
+    "IsVisible": true,
     "Subject": "9th Science || Practical || demo || \u092A\u094D\u0930\u0947\u0915\u094D\u091F\u093F\u0915\u0932 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 "
+  },
+  {
+    "Id": "1171cb8c-e00f-419d-89c5-39a5afaa9d25",
+    "DisplayOrder": 58,
+    "IsVisible": true,
+    "Subject": "11th PHYSICS || \u092E\u0949\u0921\u0932 \u092A\u094D\u0930\u0936\u094D\u0928\u092A\u0924\u094D\u0930 || \u0938\u093F\u0932\u0947\u092C\u0938 \u092A\u0930 \u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923 \u092A\u094D\u0930\u0936\u094D\u0928 || "
+  },
+  {
+    "Id": "9ccc1924-2be9-465a-bf50-859b81b82534",
+    "DisplayOrder": 78,
+    "IsVisible": true,
+    "Subject": "12th PHYSICS || \u092E\u0949\u0921\u0932 \u092A\u094D\u0930\u0936\u094D\u0928\u092A\u0924\u094D\u0930 || \u0938\u093F\u0932\u0947\u092C\u0938 \u092A\u0930 \u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923 \u092A\u094D\u0930\u0936\u094D\u0928 || "
+  },
+  {
+    "Id": "b831bd6d-ed5c-4f0e-97e9-7716fc685c98",
+    "DisplayOrder": 38,
+    "IsVisible": true,
+    "Subject": "10th Science || \u092E\u0949\u0921\u0932 \u092A\u094D\u0930\u0936\u094D\u0928\u092A\u0924\u094D\u0930 || \u0938\u093F\u0932\u0947\u092C\u0938 \u092A\u0930 \u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923 \u092A\u094D\u0930\u0936\u094D\u0928 || "
+  },
+  {
+    "Id": "dac38d08-e04b-4643-b907-f1fee8c04682",
+    "DisplayOrder": 18,
+    "IsVisible": true,
+    "Subject": "9th Science || \u092E\u0949\u0921\u0932 \u092A\u094D\u0930\u0936\u094D\u0928\u092A\u0924\u094D\u0930 || \u0938\u093F\u0932\u0947\u092C\u0938 \u092A\u0930 \u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923 \u092A\u094D\u0930\u0936\u094D\u0928 || "
   }
 ]
