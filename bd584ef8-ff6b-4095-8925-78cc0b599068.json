@@ -99,6 +99,42 @@
       "DisplayOrder": 7,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "3047590c-1a0c-46ad-b470-c46fbf29ee96",
+      "Title": "Step By Step Ray Diagram of Refraction ?",
+      "Description": "animation based video ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/PCJa0247fKE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 8,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "3008f2de-d8cc-41e1-a743-525a94605b6c",
+      "Title": "Lens, lens definitions ||10th science_chapter_10||light reflection and refraction||part-8||",
+      "Description": "what is lens? give all definition related to lens ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/RTsnr-3EJMo",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 9,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "48faf112-9c77-4436-8402-cfe421e4047b",
+      "Title": "concave lens images||10th science_chapter_10||light reflection and refraction||part-9",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/jU-LGuTr5UY",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 10,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
