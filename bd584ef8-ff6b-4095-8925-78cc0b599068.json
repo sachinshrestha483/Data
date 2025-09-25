@@ -87,6 +87,18 @@
       "DisplayOrder": 6,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "934c14e8-2375-49ed-931d-239fe931a0dd",
+      "Title": "Laws of Refraction of Light | Class 10 Science Chapter 10 | Light - Reflection and Refraction | part-7",
+      "Description": "What is Refraction? Give laws of Refraction?",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/UzNB9Lya6Ys",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
