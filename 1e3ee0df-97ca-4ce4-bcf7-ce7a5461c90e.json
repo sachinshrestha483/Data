@@ -3,5 +3,18 @@
   "Title": "9th science || English Medium || chapter 8 || Force and laws of motion",
   "DisplayOrder": 0,
   "IsVisible": false,
-  "Items": []
+  "Items": [
+    {
+      "Id": "390c9706-c4ac-4c64-9fb2-95858900949b",
+      "Title": "force concept, balanced and unbalanced force, definition, units, dimensional formula, Force and laws of motion-part1",
+      "Description": "what is Force? \r\nTypes of Force, unit of force, dimension of force",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/cFVQ2EQwtn8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
 }
