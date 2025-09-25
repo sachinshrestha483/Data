@@ -406,5 +406,53 @@
     "DisplayOrder": 14,
     "IsVisible": true,
     "Subject": "9th \u0938\u093E\u0907\u0902\u0938 \u0906\u092C\u094D\u091C\u0947\u0915\u094D\u091F\u093F\u0935 || IMP OBJECTIVE QUESTIONS 2026 "
+  },
+  {
+    "Id": "7bc28b48-c525-4f41-9d26-03e4985eaaba",
+    "DisplayOrder": 56,
+    "IsVisible": true,
+    "Subject": "11th physics || Practical || demo || \u092A\u094D\u0930\u0947\u0915\u094D\u091F\u093F\u0915\u0932 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 "
+  },
+  {
+    "Id": "141ad411-c066-422b-8df1-a302d066d2e5",
+    "DisplayOrder": 57,
+    "IsVisible": true,
+    "Subject": "11th physics || practical || \u0932\u093F\u0916\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u092A\u0940\u0921\u0940\u090F\u095E ,\u0935\u093F\u0921\u093F\u0913 \u0914\u0930 \u0928\u094B\u091F\u094D\u0938 "
+  },
+  {
+    "Id": "932d6656-9532-419c-a445-349056a29b7f",
+    "DisplayOrder": 76,
+    "IsVisible": true,
+    "Subject": "11th physics || practical || Demo || \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 "
+  },
+  {
+    "Id": "8af24a8f-ba7b-4cfe-bd76-7ae61a9a64b6",
+    "DisplayOrder": 77,
+    "IsVisible": true,
+    "Subject": "12th physics || practical || \u0932\u093F\u0916\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u092A\u0940\u0921\u0940\u090F\u095E ,\u0935\u093F\u0921\u093F\u0913 \u0914\u0930 \u0928\u094B\u091F\u094D\u0938 "
+  },
+  {
+    "Id": "01ef39e5-82c5-4d5c-9d11-74c9ec8cad2b",
+    "DisplayOrder": 36,
+    "IsVisible": true,
+    "Subject": "10th science || practical || demo || \u092A\u094D\u0930\u0947\u0915\u094D\u091F\u093F\u0915\u0932 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 "
+  },
+  {
+    "Id": "177cf34d-47f4-413a-ab45-16093c099d54",
+    "DisplayOrder": 37,
+    "IsVisible": true,
+    "Subject": "10th Science || Practical || \u0932\u093F\u0916\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u092A\u0940\u0921\u0940\u090F\u095E ,\u0935\u093F\u0921\u093F\u0913 \u0914\u0930 \u0928\u094B\u091F\u094D\u0938 "
+  },
+  {
+    "Id": "313378fa-8943-42fe-b9fc-1662f9384870",
+    "DisplayOrder": 17,
+    "IsVisible": true,
+    "Subject": "9th Science || Practical || \u0932\u093F\u0916\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u092A\u0940\u0921\u0940\u090F\u095E ,\u0935\u093F\u0921\u093F\u0913 \u0914\u0930 \u0928\u094B\u091F\u094D\u0938 "
+  },
+  {
+    "Id": "e3e393bc-3d94-4b8f-9fe8-5698f1d4156e",
+    "DisplayOrder": 16,
+    "IsVisible": false,
+    "Subject": "9th Science || Practical || demo || \u092A\u094D\u0930\u0947\u0915\u094D\u091F\u093F\u0915\u0932 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 "
   }
 ]
