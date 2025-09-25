@@ -147,6 +147,18 @@
       "DisplayOrder": 11,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "6ef0518d-7193-49db-a598-8d0a69c97bed",
+      "Title": "power of a lens ||10th science_chapter_10||light reflection and refraction||part-11",
+      "Description": "definition and unit",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/H4vj4-LC2UQ",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 12,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
