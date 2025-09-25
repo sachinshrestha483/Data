@@ -24,6 +24,18 @@
       "VideoUrl": "https://youtu.be/ovWeimj3BL8",
       "Start": null,
       "End": null,
+      "DisplayOrder": 0,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "8aa2f498-0cf2-4896-96a8-5ba8bc9cef17",
+      "Title": "Spherical mirror definitions||10th science_chapter_10||light reflection and refraction||part-2||",
+      "Description": "POLE, CENTRE OF CURVATURE, RADIUS OF CURVATURE, PRINCIPAL FOCUS, PRINCIPAL AXIS, FOCAL LENGTH, APERTURE, ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/npKWXBqhDqE",
+      "Start": null,
+      "End": null,
       "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
