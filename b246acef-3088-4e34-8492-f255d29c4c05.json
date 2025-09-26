@@ -27,6 +27,30 @@
       "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "789bdf6c-0c14-4de1-9261-aec240b77e8c",
+      "Title": "\u0906\u0935\u0943\u0924\u093F \u0914\u0930 \u0906\u0935\u0930\u094D\u0924 \u0915\u093E\u0932 \u092E\u0947 \u0938\u092E\u094D\u092C\u0928\u094D\u0927 , frequency, time period, relation between frequency and time period",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/lp8wHTKepJo",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "034e2b5d-f8e6-49b6-b773-66698c39d13d",
+      "Title": "\u0924\u0930\u0902\u0917 \u0935\u0947\u0917,\u0924\u0930\u0902\u0917\u0926\u0948\u0930\u094D\u0927\u094D\u092F,\u0906\u0935\u0943\u0924\u094D\u0924\u093F \u092E\u0947\u0902 \u0938\u092E\u094D\u092C\u0928\u094D\u0927, relation between wave velocity, wavelength, frequency",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/t9QJg5XMAjo",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
