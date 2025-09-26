@@ -51,6 +51,42 @@
       "DisplayOrder": 4,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "cfd408dc-4251-4674-8bd2-00d064204499",
+      "Title": "\u0938\u0930\u0932 \u0906\u0935\u0930\u094D\u0924 \u0917\u0924\u093F \u092E\u0947\u0902 \u0935\u093F\u0938\u094D\u0925\u093E\u092A\u0928 \u0938\u092E\u0940\u0915\u0930\u0923,11th physics, displacement equation of simple harmonic motion",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/v6gG8Au1Y4w",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 5,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "b6fec061-aefc-4e46-b8d4-d01f3ee790bf",
+      "Title": "\u0938\u0930\u0932 \u0906\u0935\u0930\u094D\u0924 \u0917\u0924\u093F \u092E\u0947\u0902 \u0935\u0947\u0917 \u0914\u0930 \u0924\u094D\u0935\u0930\u0923 \u0915\u0947 \u0935\u094D\u092F\u0902\u091C\u0915,11th physics, velocity and acceleration in simple harmonic",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/8oXAluB_gcI",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 6,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "32173c00-88c6-4d8f-aaed-6139bd440b13",
+      "Title": "\u0905\u0928\u0941\u0926\u0947\u0930\u094D\u0927\u094D\u092F \u0914\u0930 \u0905\u0928\u0941\u092A\u094D\u0930\u0938\u094D\u0925 \u0924\u0930\u0902\u0917 \u092E\u0947\u0902 \u0905\u0902\u0924\u0930,difference between transverse wave and longitudinal wave,11th",
+      "Description": null,
+      "Url": null,
+      "VideoUrl": "https://youtu.be/73vYqIo-Xqk",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
