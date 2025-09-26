@@ -3,5 +3,18 @@
   "Title": "6th Science || \u090F\u0915\u094D\u091F\u093F\u0935\u093F\u091F\u0940 || Activity Based learning || \u092A\u094D\u0930\u092F\u094B\u0917",
   "DisplayOrder": 111,
   "IsVisible": true,
-  "Items": []
+  "Items": [
+    {
+      "Id": "d3572e4d-6611-458d-8d6c-2d39da262ad3",
+      "Title": "Fun with magnets \u091A\u0941\u092E\u094D\u092C\u0915\u094B\u0902 \u0915\u0947 \u0938\u093E\u0925 \u092E\u0928\u094B\u0930\u0902\u091C\u0928 ",
+      "Description": " 6th Science Chapter 4 Exploring Magnets \r\n\u0910\u0915\u094D\u091F\u093F\u0935\u093F\u091F\u0940  \u092C\u0947\u0938\u094D\u0921 \u0932\u0930\u094D\u0928\u093F\u0902\u0917\r\n\u091A\u0941\u092E\u094D\u092C\u0915\u094B\u0902 \u0915\u094B \u091C\u093E\u0928\u0947\u0902 ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/g6bbadQVZi8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
 }
