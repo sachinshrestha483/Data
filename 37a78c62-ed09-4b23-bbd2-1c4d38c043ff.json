@@ -87,6 +87,18 @@
       "DisplayOrder": 7,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "56768d0d-7d11-4dcd-97d8-92c82b5ba73a",
+      "Title": "\u0906\u0923\u094D\u0935\u093F\u0915 \u0926\u094D\u0930\u0935\u094D\u092F\u092E\u093E\u0928 Molecular Mass",
+      "Description": "\u0906\u0923\u094D\u0935\u093F\u0915 \u0926\u094D\u0930\u0935\u094D\u092F\u092E\u093E\u0928,\u0906\u0923\u094D\u0935\u093F\u0915 \u0926\u094D\u0930\u0935\u094D\u092F\u092E\u093E\u0928 \u0915\u094D\u092F\u093E \u0939\u0948?,\u0906\u0923\u094D\u0935\u093F\u0915 \u0926\u094D\u0930\u0935\u094D\u092F\u092E\u093E\u0928 \u0915\u0940 \u0917\u0923\u0928\u093E \u0915\u0948\u0938\u0947 \u0915\u0930\u0924\u0947\u0902 \u0939\u0948\u0902",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/T_sv5YVZtuo",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 8,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
