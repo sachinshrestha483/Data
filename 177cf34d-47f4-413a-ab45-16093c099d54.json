@@ -3,5 +3,54 @@
   "Title": "10th Science || Practical || \u0932\u093F\u0916\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u092A\u0940\u0921\u0940\u090F\u095E ,\u0935\u093F\u0921\u093F\u0913 \u0914\u0930 \u0928\u094B\u091F\u094D\u0938 ",
   "DisplayOrder": 37,
   "IsVisible": true,
-  "Items": []
+  "Items": [
+    {
+      "Id": "1a6d7ab6-0ab8-4e8c-a2a1-f96ff4e8ea2c",
+      "Title": "PRACTICAL: \u0915\u093F\u0938\u0940 \u0915\u093E\u0902\u091A \u0915\u0947 \u092A\u094D\u0930\u093F\u091C\u094D\u092E \u092E\u0947\u0902 \u0938\u0947 \u0939\u094B\u0915\u0930 \u092A\u094D\u0930\u0915\u093E\u0936 \u0915\u093F\u0930\u0923\u094B\u0902 \u0915\u0947 \u0917\u092E\u0928 \u092A\u0925 \u0915\u094B \u0926\u0930\u094D\u0936\u093E\u0928\u093E To show the path of light rays through a glass prism",
+      "Description": "10th science, \u092A\u094D\u0930\u093F\u091C\u094D\u092E \u0938\u0947 \u0905\u092A\u0935\u0930\u094D\u0924\u0928 \u0915\u093E  \u092A\u094D\u0930\u0948\u0915\u094D\u091F\u093F\u0915\u0932 , practical refraction through Prism",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/neJw8b_BQGY",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "e01e5ddf-10f3-4812-b78a-a787004bd896",
+      "Title": "\u0915\u093E\u0902\u091A \u0915\u0947 \u0906\u092F\u0924\u093E\u0915\u093E\u0930 \u0917\u0941\u091F\u0915\u0947 \u0938\u0947 \u092A\u094D\u0930\u0915\u093E\u0936 \u0915\u093E \u0905\u092A\u0935\u0930\u094D\u0924\u0928 \u0915\u093E \u092A\u094D\u0930\u092F\u094B\u0917 ,refraction of light through rectangular glass slab",
+      "Description": "\u0915\u093E\u0902\u091A \u0915\u0947 \u0906\u092F\u0924\u093E\u0915\u093E\u0930 \u0917\u0941\u091F\u0915\u0947 \u0938\u0947 \u092A\u094D\u0930\u0915\u093E\u0936 \u0915\u093E \u0905\u092A\u0935\u0930\u094D\u0924\u0928 \u0915\u093E \u092A\u094D\u0930\u092F\u094B\u0917",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/R_mBOOdrQ1M",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "d0b05d1d-3c7d-43b5-a03e-e4da18d420d2",
+      "Title": "V - I \u0917\u094D\u0930\u093E\u092B \u0916\u0940\u0902\u091A\u0915\u0930 \u092A\u094D\u0930\u0924\u093F\u0930\u094B\u0927 \u091C\u094D\u091E\u093E\u0924 \u0915\u0930\u0928\u093E,\u0913\u092E \u0915\u0947 \u0928\u093F\u092F\u092E \u0915\u093E \u0938\u0924\u094D\u092F\u093E\u092A\u0928",
+      "Description": "WRITTEN VERIFICATION OF OHMS LAW PRACTICAL ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/KhvYDhpvD9c",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 3,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "522b21fb-cbab-4517-a50b-bbc8e7f351eb",
+      "Title": "\u092A\u094D\u0930\u0947\u0915\u094D\u091F\u093F\u0915\u0932 : \u092A\u0941\u0937\u094D\u092A \u0915\u0940 \u0905\u0928\u0941\u0926\u0947\u0930\u094D\u0927\u094D\u092F \u0915\u093E\u091F \u0915\u093E \u0928\u093E\u092E\u093E\u0902\u0915\u093F\u0924 \u091A\u093F\u0924\u094D\u0930 \u092C\u0928\u093E\u0915\u0930 \u0909\u0938\u0915\u0947 \u092D\u093E\u0917\u094B\u0902 \u0915\u093E \u0905\u0927\u094D\u092F\u092F\u0928 ,flower cross section diagram",
+      "Description": "how to make diagram and study ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/H4K8ba5tFtA",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 4,
+      "IsVisible": true,
+      "Items": []
+    }
+  ]
 }
