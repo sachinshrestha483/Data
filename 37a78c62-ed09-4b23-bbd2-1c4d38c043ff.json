@@ -7,12 +7,24 @@
     {
       "Id": "b078a014-1f13-4880-9375-411eedad598f",
       "Title": "\u0926\u094D\u0930\u0935\u094D\u092F\u092E\u093E\u0928 \u0938\u0902\u0930\u0915\u094D\u0937\u0923 \u0915\u093E \u0928\u093F\u092F\u092E, Law of conservation of mass",
-      "Description": null,
+      "Description": "9th science || chapter 3|| \u092A\u0930\u092E\u093E\u0923\u0941 \u090F\u0935\u0902 \u0905\u0923\u0941 || atom and molecule part-1",
       "Url": null,
       "VideoUrl": "https://youtu.be/7AYE0_2ZoHE",
       "Start": null,
       "End": null,
       "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "66773aca-30c4-4da9-9b3b-a255ddac70e5",
+      "Title": "Law of Constant Proportions | \u0938\u094D\u0925\u093F\u0930 \u0905\u0928\u0941\u092A\u093E\u0924 \u0915\u093E \u0928\u093F\u092F\u092E | Class 9 Science | NCERT Explanation",
+      "Description": "9th science || chapter 3|| \u092A\u0930\u092E\u093E\u0923\u0941 \u090F\u0935\u0902 \u0905\u0923\u0941 || atom and molecule part-2",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/UJAjQcJRmHw",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
     }
