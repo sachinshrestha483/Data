@@ -7,12 +7,24 @@
     {
       "Id": "3ddd42fc-cfe2-4d84-be16-9dff5638a7f5",
       "Title": "\u0927\u094D\u0935\u0928\u093F \u092A\u0930\u093E\u0935\u0930\u094D\u0924\u0928 \u0915\u0947 \u0928\u093F\u092F\u092E\u094B\u0902 \u0915\u093E \u0938\u0924\u094D\u092F\u093E\u092A\u0928 \u0915\u0930\u0928\u093E, Verify the laws of sound reflection",
-      "Description": null,
+      "Description": "\u0935\u093F\u0921\u093F\u0913 \u0938\u0947 \u0932\u093F\u0916 \u0932\u0940\u091C\u093F\u090F ",
       "Url": null,
       "VideoUrl": "https://youtu.be/w9KvlhpY-bU",
       "Start": null,
       "End": null,
       "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "9d04e44e-1fd2-4b9c-99a9-4bccecb90891",
+      "Title": "\u0915\u093F\u0938\u0940 \u0920\u094B\u0938 \u0935\u0938\u094D\u0924\u0941 \u0915\u093E \u0918\u0928\u0924\u094D\u0935 \u0914\u0930 \u0906\u092A\u0947\u0915\u094D\u0937\u093F\u0915 \u0918\u0928\u0924\u094D\u0935 \u091C\u094D\u091E\u093E\u0924 \u0915\u0930\u0928\u093E",
+      "Description": "\u0935\u093F\u0921\u093F\u0913 \u0938\u0947 \u0932\u093F\u0916 \u0932\u0940\u091C\u093F\u090F ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/UEK_SeS8RsM",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
     }
