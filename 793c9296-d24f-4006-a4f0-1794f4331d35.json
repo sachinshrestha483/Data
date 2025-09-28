@@ -120,6 +120,18 @@
       "VideoUrl": "https://youtu.be/4MoywUF98Bo",
       "Start": null,
       "End": null,
+      "DisplayOrder": 11,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "c6df87af-d61f-4841-84ef-3e8bc4403b1d",
+      "Title": "g \u0914\u0930 G \u092E\u0947\u0902 \u0905\u0902\u0924\u0930 | Difference Between g and G | Physics Explained",
+      "Description": "\u0907\u0938 \u0935\u0940\u0921\u093F\u092F\u094B \u092E\u0947\u0902 \u0939\u092E \u0938\u092E\u091D\u0947\u0902\u0917\u0947 \u0915\u093F g (Acceleration due to Gravity) \u0914\u0930 G (Universal Gravitational Constant) \u092E\u0947\u0902 \u0915\u094D\u092F\u093E \u0905\u0902\u0924\u0930 \u0939\u0948\u0964",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/AbDuioTZpCw",
+      "Start": null,
+      "End": null,
       "DisplayOrder": 10,
       "IsVisible": true,
       "Items": []
