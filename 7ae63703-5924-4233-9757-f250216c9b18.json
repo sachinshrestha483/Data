@@ -7,12 +7,12 @@
     {
       "Id": "74d0d414-7f31-4e45-8a26-b15cb0d8a0bf",
       "Title": "\u092E\u0947\u092F\u0930 \u0915\u093E \u0938\u0942\u0924\u094D\u0930,\u092E\u0947\u092F\u0930 \u0938\u0902\u092C\u0902\u0927 Mayer\u0027s formula cp-cv=R",
-      "Description": null,
+      "Description": "\u092C\u0939\u0941\u0924 \u0939\u0940 \u0938\u093F\u092E\u094D\u092A\u0932 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947 \u0936\u0949\u0930\u094D\u091F \u092E\u0947\u0902 \u092A\u0942\u0930\u0947 \u0905\u0902\u0915 \u0939\u0947\u0924\u0941 \u0905\u0935\u0936\u094D\u092F \u0926\u0947\u0916\u0947\u0902 ",
       "Url": null,
       "VideoUrl": "https://youtu.be/tDLj1fRiDNk",
       "Start": null,
       "End": null,
-      "DisplayOrder": 1,
+      "DisplayOrder": 4,
       "IsVisible": true,
       "Items": []
     },
@@ -48,19 +48,19 @@
       "VideoUrl": "https://youtu.be/Nj9mjkd_M7U",
       "Start": null,
       "End": null,
-      "DisplayOrder": 4,
+      "DisplayOrder": 8,
       "IsVisible": true,
       "Items": []
     },
     {
       "Id": "799768b8-a7a4-431a-9bbb-26ed54ef8589",
       "Title": "\u0938\u092E\u0924\u093E\u092A\u0940 \u092A\u0930\u093F\u0935\u0930\u094D\u0924\u0928 \u092E\u0947\u0902 \u0917\u0948\u0938 \u0926\u094D\u0935\u093E\u0930\u093E \u0915\u093F\u092F\u093E \u0917\u092F\u093E \u0915\u093E\u0930\u094D\u092F,work done by gas in isothermal process,11th physics,",
-      "Description": null,
+      "Description": "\u0938\u0942\u0924\u094D\u0930 \u0915\u0940 \u0938\u094D\u0925\u093E\u092A\u0928\u093E ",
       "Url": null,
       "VideoUrl": "https://youtu.be/VbKNeR83AZs",
       "Start": null,
       "End": null,
-      "DisplayOrder": 5,
+      "DisplayOrder": 6,
       "IsVisible": true,
       "Items": []
     },
@@ -84,7 +84,7 @@
       "VideoUrl": "https://youtu.be/RqsbsO04W2s",
       "Start": null,
       "End": null,
-      "DisplayOrder": 7,
+      "DisplayOrder": 5,
       "IsVisible": true,
       "Items": []
     },
@@ -96,7 +96,19 @@
       "VideoUrl": "https://youtu.be/vSovrt-5HvE",
       "Start": null,
       "End": null,
-      "DisplayOrder": 8,
+      "DisplayOrder": 1,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "4e62194d-9f63-4a74-b091-5da883775b43",
+      "Title": "\u0930\u0941\u0926\u094D\u0927\u094B\u0937\u094D\u092E \u092A\u094D\u0930\u0938\u093E\u0930 \u092E\u0947\u0902 \u0917\u0948\u0938 \u0926\u094D\u0935\u093E\u0930\u093E \u0915\u093F\u092F\u093E \u0917\u092F\u093E \u0915\u093E\u0930\u094D\u092F,work done by gas in adiabatic process,11th physics,",
+      "Description": "\u0907\u0938 \u0935\u0940\u0921\u093F\u092F\u094B \u092E\u0947\u0902 \u0939\u092E 11\u0935\u0940\u0902 \u0915\u0915\u094D\u0937\u093E \u0915\u0940 \u092D\u094C\u0924\u093F\u0915\u0940 (Physics) \u0938\u0947 \u0930\u0941\u0926\u094D\u0927\u094B\u0937\u094D\u092E \u092A\u094D\u0930\u0938\u093E\u0930 (Adiabatic Expansion) \u092E\u0947\u0902 \u0917\u0948\u0938 \u0926\u094D\u0935\u093E\u0930\u093E \u0915\u093F\u090F \u0917\u090F \u0915\u093E\u0930\u094D\u092F (Work Done by Gas) \u0915\u094B \u0938\u0930\u0932 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947 \u0938\u092E\u091D\u0947\u0902\u0917\u0947\u0964 \u0925\u0930\u094D\u092E\u094B\u0921\u093E\u092F\u0928\u093E\u092E\u093F\u0915\u094D\u0938 \u0915\u0947 \u0907\u0938 \u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923 \u091F\u0949\u092A\u093F\u0915 \u092A\u0930 \u0938\u094D\u091F\u0947\u092A-\u092C\u093E\u092F-\u0938\u094D\u091F\u0947\u092A \u0935\u094D\u092F\u093E\u0916\u094D\u092F\u093E, \u092B\u0949\u0930\u094D\u092E\u0942\u0932\u093E, \u0909\u0926\u093E\u0939\u0930\u0923 \u0914\u0930 \u0921\u0947\u0930\u093F\u0935\u0947\u0936\u0928 \u0936\u093E\u092E\u093F\u0932 \u0939\u0948\u0902\u0964 NEET, JEE \u0914\u0930 \u092C\u094B\u0930\u094D\u0921 \u090F\u0917\u094D\u091C\u093E\u092E \u0915\u0940 \u0924\u0948\u092F\u093E\u0930\u0940 \u0915\u0930\u0928\u0947 \u0935\u093E\u0932\u0947 \u091B\u093E\u0924\u094D\u0930\u094B\u0902 \u0915\u0947 \u0932\u093F\u090F \u0909\u092A\u092F\u094B\u0917\u0940\u0964",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/4HJX5bXXZgA",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 7,
       "IsVisible": true,
       "Items": []
     }
