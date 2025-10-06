@@ -135,6 +135,30 @@
       "DisplayOrder": 11,
       "IsVisible": true,
       "Items": []
+    },
+    {
+      "Id": "9cc987bc-7877-484a-b2d6-6cda3fa840ec",
+      "Title": "\u090A\u0937\u094D\u092E\u093E \u0907\u0902\u091C\u0928,\u090A\u0937\u094D\u092E\u093E \u0907\u0902\u091C\u0928 \u0915\u093E \u0938\u093F\u0926\u094D\u0927\u093E\u0902\u0924,\u090A\u0937\u094D\u092E\u093E \u0907\u0902\u091C\u0928 \u0915\u0947 \u092E\u0941\u0916\u094D\u092F \u092D\u093E\u0917,\u090A\u0937\u094D\u092E\u093E \u0907\u0902\u091C\u0928 \u0926\u0915\u094D\u0937\u0924\u093E,11 physics",
+      "Description": "Heat engine with Diagram ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/c_jfSLCxUfE",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 12,
+      "IsVisible": true,
+      "Items": []
+    },
+    {
+      "Id": "e75ddae7-f76f-42a6-ba55-4b0030768fbf",
+      "Title": "\u092A\u094D\u0930\u0936\u0940\u0924\u0915 \u0915\u094D\u092F\u093E \u0939\u0948, \u092A\u094D\u0930\u0936\u0940\u0924\u0915 \u0915\u0940 \u0915\u093E\u0930\u094D\u092F \u0935\u093F\u0927\u093F, \u092A\u094D\u0930\u0936\u0940\u0924\u0915 \u0915\u093E \u0938\u093F\u0926\u094D\u0927\u093E\u0902\u0924, \u092A\u094D\u0930\u0936\u0940\u0924\u0915 \u0915\u093E \u0915\u093E\u0930\u094D\u092F \u0917\u0941\u0923\u093E\u0902\u0915, \u090A\u0937\u094D\u092E\u093E \u092A\u0902\u092A",
+      "Description": "what is refrigerator, working of refrigerator, principle of refrigerator, heat pump ",
+      "Url": null,
+      "VideoUrl": "https://youtu.be/05ECqCHUVL8",
+      "Start": null,
+      "End": null,
+      "DisplayOrder": 13,
+      "IsVisible": true,
+      "Items": []
     }
   ]
 }
