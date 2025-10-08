@@ -12,7 +12,7 @@
       "VideoUrl": "https://youtu.be/97A1RcE787Y",
       "Start": null,
       "End": null,
-      "DisplayOrder": 1,
+      "DisplayOrder": 4,
       "IsVisible": true,
       "Items": []
     },
@@ -24,7 +24,7 @@
       "VideoUrl": "https://youtu.be/-ISYUeUoG-M",
       "Start": null,
       "End": null,
-      "DisplayOrder": 2,
+      "DisplayOrder": 5,
       "IsVisible": true,
       "Items": []
     },
@@ -36,7 +36,7 @@
       "VideoUrl": "https://youtu.be/6ojpOl52I0M",
       "Start": null,
       "End": null,
-      "DisplayOrder": 3,
+      "DisplayOrder": 6,
       "IsVisible": true,
       "Items": []
     },
@@ -48,7 +48,7 @@
       "VideoUrl": "https://youtu.be/U2S_6BgM7gU",
       "Start": null,
       "End": null,
-      "DisplayOrder": 4,
+      "DisplayOrder": 3,
       "IsVisible": true,
       "Items": []
     },
@@ -60,7 +60,7 @@
       "VideoUrl": "https://youtu.be/thibZrEddDs",
       "Start": null,
       "End": null,
-      "DisplayOrder": 5,
+      "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
     },
@@ -72,7 +72,7 @@
       "VideoUrl": "https://youtu.be/cv9camaZhiU",
       "Start": null,
       "End": null,
-      "DisplayOrder": 6,
+      "DisplayOrder": 1,
       "IsVisible": true,
       "Items": []
     }
