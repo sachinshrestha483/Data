@@ -12,7 +12,7 @@
       "VideoUrl": "https://youtu.be/g6bbadQVZi8",
       "Start": null,
       "End": null,
-      "DisplayOrder": 1,
+      "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
     },
@@ -24,7 +24,7 @@
       "VideoUrl": "https://youtu.be/b-CAVoIG_wY",
       "Start": null,
       "End": null,
-      "DisplayOrder": 2,
+      "DisplayOrder": 3,
       "IsVisible": true,
       "Items": []
     },
@@ -36,7 +36,7 @@
       "VideoUrl": "https://youtu.be/NkdUn_F_4nY",
       "Start": null,
       "End": null,
-      "DisplayOrder": 3,
+      "DisplayOrder": 1,
       "IsVisible": true,
       "Items": []
     }
