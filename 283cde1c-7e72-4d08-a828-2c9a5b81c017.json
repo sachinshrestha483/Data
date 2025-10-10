@@ -24,7 +24,7 @@
       "VideoUrl": "https://youtu.be/C2Zaj8RZJ9E",
       "Start": null,
       "End": null,
-      "DisplayOrder": 2,
+      "DisplayOrder": 4,
       "IsVisible": true,
       "Items": []
     },
@@ -48,7 +48,7 @@
       "VideoUrl": "https://youtu.be/wcumvnY8LNw",
       "Start": null,
       "End": null,
-      "DisplayOrder": 4,
+      "DisplayOrder": 2,
       "IsVisible": true,
       "Items": []
     }
